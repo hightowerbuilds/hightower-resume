@@ -1,11 +1,17 @@
+import './App.css'
+
 
 export default function App() {
   return (
-    <div>
-      <h1>Luke Hightower</h1>
-      <h3>(503) 341-2655</h3>
-      <h3>lukehightower11@gmail.com</h3>
-      <h3>1107 HALSEY DR. COUPEVILLE, WA 98239</h3>
+    <div className="mainBox">
+      
+      <div className='headingBox'>
+      <h1 className="fullName">Luke Hightower</h1>
+      <h3 className="phoneNumber">(503) 341-2655</h3>
+      <h3 className="email">lukehightower11@gmail.com</h3>
+      <h3 className="homeAddress">1107 HALSEY DR. COUPEVILLE, WA 98239</h3>
+      </div>
+    
 
       <h2>Employment Experience</h2>
       <p>
