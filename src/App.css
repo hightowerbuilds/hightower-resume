@@ -4,3 +4,33 @@
     box-sizing: border-box;
 }
 
+.headingBox {
+    margin: 1%;
+    font-family: optima;
+    font-size: 20px;
+    
+}
+
+.fullName { width: 60vh; display: flex; justify-content: center;}
+.phoneNumber {  width: 60vh; display: flex; justify-content: center;}
+.email {  width: 60vh; display: flex; justify-content: center; }
+.homeAddress {  width: 60vh; display: flex; justify-content: center;}
+
+
+.empExp {
+    margin: 1%;
+    font-family: optima;
+    font-size: 20px;
+}
+
+.refBox {
+    margin: 1%;
+    font-family: optima;
+    font-size: 20px;
+}
+
+.paragraph {
+    width: 60vh;
+    font-family: optima;
+    font-size: 20px;
+}
