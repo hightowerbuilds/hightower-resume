@@ -11,7 +11,7 @@ export default function App() {
       <h3 className="email">lukehightower11@gmail.com</h3>
       <h3 className="homeAddress">1107 HALSEY DR. COUPEVILLE, WA 98239</h3>
       </div>
-    
+      <p>NOTES: needs little this, maybe a little that too...</p>
       <div className='empExp'>
       <h2>Employment Experience</h2>
       <br />
