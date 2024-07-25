@@ -22,7 +22,7 @@ export default function App() {
       <br />
       <p className='paragraph'>
       <h3>Ghost City Tours - Licensed Tour Guide (City of New Orleans) 3/2023 - 7/2023</h3>
-        In the city of New Orleans this survives one of richest concentrations of american history. Though truly the history is spread throughout the entire city however the french quarter is particularly fit to tour upon one's visit. People have been visiting this city for over 300 years! I was able be earn my license as a tour guide as well as pass a few tests for the Ghost City Tours company to make a living as a tour guide. The job is tremendous! It does require a lot of detail orientation and memorization of dates, names and truly wonderful stories. Its the job of the tour guide to show excellent hospitality skills and negotiate ( at times hectic ) parts of the French Quarter with up to 28 people!
+        In the city of New Orleans this survives one of richest concentrations of American history. Though truly the history is spread throughout the entire city however the french quarter is particularly fit to tour upon one's visit. People have been visiting this city for over 300 years! I was able be earn my license as a tour guide as well as pass a few tests for the Ghost City Tours company to make a living as a tour guide. The job is tremendous! It does require a lot of detail orientation and memorization of dates, names and truly wonderful stories. Its the job of the tour guide to show excellent hospitality skills and negotiate ( at times hectic ) parts of the French Quarter with up to 28 people!
       </p>
       <br />
       <p className='paragraph'>
@@ -70,7 +70,7 @@ export default function App() {
       <h3>References</h3>
 
       <p>
-      Stephen Maynard - Manager, Ghost City Tours (985)205-1922 <br />
+      Stephen Maynard - Manager, Ghost City Tours (985) 205-1922 <br />
       Kyle Frasure – General Manager Houston’s (714) 315-3484 <br />
       Patrick Donavan - General Contractor Island R & R (651) 338-2534
       </p>
