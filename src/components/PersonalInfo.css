@@ -2,12 +2,14 @@
 
 
 .fullName { 
+    padding-left: 1%;
     width: fit-content; 
     display: flex; 
     justify-content: center;
     font-family: optima;
 }
 .phoneNumber {  
+    padding-left: 1%;
     width: fit-content; 
     display: flex; 
     justify-content: center;
@@ -15,6 +17,7 @@
     font-size: 24px;
 }
 .email {  
+    padding-left: 1%;
     width: fit-content; 
     display: flex; 
     justify-content: center; 
@@ -22,6 +25,7 @@
     font-size: 24px;
 }
 .homeAddress {  
+    padding-left: 1%;
     width: fit-content; 
     display: flex; 
     justify-content: center;

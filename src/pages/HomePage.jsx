@@ -45,7 +45,7 @@ const handleWriteToggleClose = () => {
 
 
       <div className='sideBar'>
-        { nameToggle ? <button className='openInfoButton' onClick={handleToggleClose}>close info</button> :   <button className='openInfoButton' onClick={handleToggleOpen}>personal info</button>}
+        { nameToggle ? <button className='openInfoButton' onClick={handleToggleClose}>close info</button> :   <button className='openInfoButton' onClick={handleToggleOpen}>contact info</button>}
         { employmentToggle ? <button className='openEmpButton' onClick={handleEmpToggleClose}>close info</button> : <button className='openEmpButton' onClick={handleEmpToggleOpen}>employment experience</button>}
         { writingToggle ? <button className='openEmpButton' onClick={handleWriteToggleClose}>close info</button> : <button className='openEmpButton' onClick={handleWriteToggleOpen}>creative writing</button>}
       </div>
