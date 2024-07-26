@@ -1,10 +1,12 @@
-import './App.css'
-import Resume from './components/Resume'
+import './App.css';
+import HomePage from './components/HomePage';
+import { Route, Routes } from 'react-router-dom';
+
 
 export default function App() {
   return (
-    <div>
-      <Resume />
-    </div>
+   <Routes>
+      <Route path="/" element={<HomePage />}/>
+   </Routes>
   )
 }
