@@ -7,6 +7,11 @@
 .headingBox {
     font-family: optima;
     font-size: 20px;
+    transition: 500ms ease-in-out;
+}
+
+.headingBox:hover {
+    font-size: 20.5px;
 }
 
 .mainBox {
@@ -17,7 +22,33 @@
     font-family: monospace;
     font-size: 20px;
     background-color: #242424;
-    color: rgb(67, 132, 132)
+    color: rgb(67, 132, 132);
 }
 
+.openInfoButton {
+    background-color: #242424;
+    color: rgb(67, 132, 132);
+    font-size: 20px;
+    height: 5vh;
+    width: 12vh;
+    border: #242424;
+    transition: 500ms ease-in-out;
+}
 
+.openInfoButton:hover {
+    color: rgb(21, 178, 125);
+}
+
+.openEmpButton {
+    background-color: #242424;
+    color: rgb(67, 132, 132);
+    font-size: 20px;
+    height: 5vh;
+    width: 12vh;
+    border: #242424;
+    transition: 500ms ease-in-out;
+}
+
+.openEmpButton:hover {
+    color: rgb(21, 178, 125);
+}

@@ -33,11 +33,11 @@ export default function Resume() {
     <div className="mainBox">
       <div className='headingBox'>
     
-    { nameToggle ?  <><PersonalInfo /> <button onClick={handleToggleClose}>close info</button></>  : <button onClick={handleToggleOpen}>info</button>}
+    { nameToggle ?  <><PersonalInfo /> <button onClick={handleToggleClose}>close info</button></>  : <button className='openInfoButton' onClick={handleToggleOpen}>personal info</button>}
      
       </div>
      
-    { employmentToggle ? <><Experience /> <button onClick={handleEmpToggleClose}>close info</button></> : <button onClick={handleEmpToggleOpen}>info</button>}
+    { employmentToggle ? <><button onClick={handleEmpToggleClose}>close info</button><Experience /> </> : <button className='openEmpButton' onClick={handleEmpToggleOpen}>employment experience</button>}
 
     </div>
   )
