@@ -1,0 +1,23 @@
+
+
+
+.fullName { 
+    width: fit-content; 
+    display: flex; 
+    justify-content: center;
+}
+.phoneNumber {  
+    width: fit-content; 
+    display: flex; 
+    justify-content: center;
+}
+.email {  
+    width: fit-content; 
+    display: flex; 
+    justify-content: center; 
+}
+.homeAddress {  
+    width: fit-content; 
+    display: flex; 
+    justify-content: center;
+}
