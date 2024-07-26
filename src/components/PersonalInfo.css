@@ -5,19 +5,26 @@
     width: fit-content; 
     display: flex; 
     justify-content: center;
+    font-family: optima;
 }
 .phoneNumber {  
     width: fit-content; 
     display: flex; 
     justify-content: center;
+    font-family: optima;
+    font-size: 24px;
 }
 .email {  
     width: fit-content; 
     display: flex; 
     justify-content: center; 
+    font-family: optima;
+    font-size: 24px;
 }
 .homeAddress {  
     width: fit-content; 
     display: flex; 
     justify-content: center;
+    font-family: optima;
+    font-size: 24px;
 }

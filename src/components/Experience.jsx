@@ -10,7 +10,12 @@ export default function Experience() {
       <h2>Employment Experience</h2>
       <br />
       <p className='paragraph'>
-        <h3>Island Roofing and Remodel - Roofer - 7/2023 - current </h3> 
+        <h3>Lyft - Driver (Seattle) 4/2024- current </h3> 
+      This job requires a lot of heavy lifting and climbing. It is entirely outdoors and requires a great amount of willingness to succeed in roofing homes in rougher weather. we use power tools e.g. saws, drills, metal shears. We also use air power nail guns and staplers. To be successful as a roofer one must be sharp with problem solving skills. This is needed for complex tasks to roof-in the home but also to keep oneself safe on slippery roofs in the rain. A roofer must also be familiar with safety requirements in various types of jobs. This job also required enough dedication for us to purchase most of our own tools.
+      </p>
+      <br />
+      <p className='paragraph'>
+        <h3>Island Roofing and Remodel - Roofer - 7/2023 - 5/2024 </h3> 
       This job requires a lot of heavy lifting and climbing. It is entirely outdoors and requires a great amount of willingness to succeed in roofing homes in rougher weather. we use power tools e.g. saws, drills, metal shears. We also use air power nail guns and staplers. To be successful as a roofer one must be sharp with problem solving skills. This is needed for complex tasks to roof-in the home but also to keep oneself safe on slippery roofs in the rain. A roofer must also be familiar with safety requirements in various types of jobs. This job also required enough dedication for us to purchase most of our own tools.
       </p>
       <br />
