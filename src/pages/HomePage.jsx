@@ -5,15 +5,11 @@ import Experience from '../components/Experience'
 import PersonalInfo from '../components/PersonalInfo'
 import CreativeWriting from '../components/CreativeWriting'
 
-
 export default function HomePage() {
-
 
   const [ nameToggle, setNameToggle ] = useState(false)
   const [ employmentToggle, setEmploymentToggle ] = useState(false)
   const [ writingToggle, setWritingToggle ] = useState(false)
-
-
 
   const handleToggleOpen = () => {
       setNameToggle(true)
