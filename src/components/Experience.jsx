@@ -5,7 +5,7 @@ export default function Experience() {
   return (
     <div>
       <div className='empExp'>
-      <h2>Employment Experience</h2>
+      <h2 className='empExpTitle'>Employment Experience</h2>
       <br />
       <p className='paragraph'>
         <h3>Lyft - Driver (Seattle) 4/2024 - Current </h3> 

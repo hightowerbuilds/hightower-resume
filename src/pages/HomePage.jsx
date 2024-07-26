@@ -47,6 +47,7 @@ const handleWriteToggleClose = () => {
       </div>
        
       <div className='mainHomeSection'>
+        <h1 className='mainNameTitle'>Luke Hightower</h1>
         { nameToggle ?  <PersonalInfo />  : ''}
         { employmentToggle ? <Experience /> : ''}
         { writingToggle ? <CreativeWriting/> : ''}
