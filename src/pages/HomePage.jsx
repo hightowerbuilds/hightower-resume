@@ -22,8 +22,8 @@ export default function HomePage() {
     { name: 'education',        component: <Education /> },
     { name: 'web dev',          component: <Development />},
     { name: 'creative',         component: <CreativeWriting /> },
-    { name: 'contact',          component: <PersonalInfo /> },
     { name: 'blog',             component: <Blog />},
+    { name: 'contact',          component: <PersonalInfo /> },
   ];
 
   return (
@@ -41,7 +41,7 @@ export default function HomePage() {
       </div>
 
       <div className='mainHomeSection'>
-        <h1 className='mainNameTitle'>Luke Hightower Portfolio & Resume</h1>
+        <h1 className='mainNameTitle'>Luke Hightower's Portfolio & Resume</h1>
         {sectionData.map((section) => (
           activeSection === section.name && section.component
         ))}
