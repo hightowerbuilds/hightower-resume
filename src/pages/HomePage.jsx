@@ -8,6 +8,8 @@ import Education from '../components/Education/Education';
 import Blog from '../components/Blog/Blog';
 import Development from '../components/Development/Development';
 
+import selfie from '../images/selfie.png'
+
 export default function HomePage() {
 
   const [activeSection, setActiveSection] = useState('home');
@@ -29,6 +31,7 @@ export default function HomePage() {
   return (
     <div className='mainBox'>
       <div className='sideBar'>
+      <img className='selfieFrame' src={selfie} alt="big ol face goes right here" />
         {sectionData.map((section) => (
           <button
             key={section.name}
