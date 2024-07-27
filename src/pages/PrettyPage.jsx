@@ -8,10 +8,10 @@ export default function PrettyPage() {
       <br /><br /><br />
       <p className='prettyPageMainParagraph'>
 
-      <h1>Pretty No Perspective</h1>
+      <h1 className='pnpTitle'>Pretty No Perspective</h1>
       <h2>A story by Luke Aaron Hightower</h2>
       <h2>A Brontosaurus Zine Publication 2021 ©</h2>
-      <h2>Dedicated to all of those with compassion for madness.</h2>
+      <h4>Dedicated to all of those with compassion for madness.</h4>
  
       <br /><br />
       <h2>An Introduction</h2>

@@ -6,6 +6,12 @@
     padding: 2%;
 }
 
+.pnpTitle::selection {
+    background-color: antiquewhite; /* Choose your desired color */
+    color: black;
+}
+
+
 .prettyPageNavLink {
     color: seagreen;
 }
