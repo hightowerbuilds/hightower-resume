@@ -9,9 +9,9 @@ export default function PrettyPage() {
       <p className='prettyPageMainParagraph'>
 
       <h1 className='pnpTitle'>Pretty No Perspective</h1>
-      <h2>A story by Luke Aaron Hightower</h2>
-      <h2>A Brontosaurus Zine Publication 2021 ©</h2>
-      <h4>Dedicated to all of those with compassion for madness.</h4>
+      <h3>A story by Luke Aaron Hightower</h3>
+      <h3>A Brontosaurus Zine Publication 2021 ©</h3>
+      <h3>Dedicated to all of those with compassion for Madness.</h3>
  
       <br /><br />
       <h2>An Introduction</h2>
@@ -65,410 +65,298 @@ export default function PrettyPage() {
       <br /><br />
       A few minutes passed before he saw the last inch of her cross the cracked bathroom door where he sat contemplating a tear. It didn’t slam as she left and thus returned silence.
       </p>
+      <br /><br />
+      <h2>Cattle and Boy</h2>
+      <br /><br />
+      <p>
+      In the distance there is a tower, a sky-scraping torch with a menacing blaze spouting voraciously bright flames at least dozens of feet up into the dark sky. He is flying toward this tower at unimaginable speed, so fast he’d lose his fingerprints if were he to reach out from the hull. He careens faster and steady like a magnet toward the tower. He must pull up, but he cannot adjust the course of his ship, “Pull up, goddamn you!” It does not adjust. “UP!” It will not adjust. “UUHHPP!”
+      <br /><br />
+      Clark gasps as his eye lids spring open. He peels himself up from the moist bedding of his sweaty, cold and dire sleep. He pulls his legs out from under the cover and sensory escalation. He shakes his head spattering the liquid about him and causing perspiration to drip into his palms as he caught focus on his fingerprints, 
+      <br /><br />
+      “What was that?” 
+      <br /><br />
+      He turns to remove himself from the bed.
+      <br /><br />
+      “AH!” He bursts in fright again! 
+      <br /><br />
+      The cowboy hat is on the table.
+      <br /><br />
+      “Where’s the lamp?” 
+      <br /><br />
+      A bed with one blanket, a dresser, a shelf of only complete collections, a mirror, and a small lamp sitting on a bed-side table compose the innards of his room. He scans. He looks closely at the hat. He lifts reluctantly as it’s damp and germ-content a mystery. 
+      <br /><br />
+      “Hwowee.” He wipes his brow in relief of finding the little lamp under the dome of the accessory. He tosses the hat to the floor in disgust. He stands, dresses himself, sliding all the necessary buttons into place to re-enter his well-preserved self-image. He turns around to confirm with the mirror that his appearance is properly arranged but is disrupted. There it is again sitting at his feet in the reflection of the mirror. He attempts to jump over it. His depth perception fails him in the reflection and instead of landing gracefully on the other side he is tripped up and tumbles into the shelf knocking the exactly organized books onto the floor and out of order. Reddening with embarrassment after what he perceives to be an aberration of clumsiness he lashes out at the hat! He swings his right foot toward the perspicacious enemy across the carpet floor. His visual gauging of the objects surrounding him is askew, now repeatedly, and the action of his big toe is thwarted painfully by the corner of his bed frame. “Ftunk.”
+      <br /><br />
+      “Yow!” He growls. The hat is still pointed in his direction. 
+      <br /><br />
+      “Fuck you.” He talks some shit to the hat as if it were looking at him belly aching in a deep cackle. His question why is there a cowboy hat in the street? morphed into a more distressing and pertinent question why in hell did I pick this hat up? 
+      <br /><br />
+      Clark stood and kept his distance, as to not underestimate its precocious nature. He replaced the books, keeping most of his weight on the left foot. He turns back to the hat. He strains to not holler as the damaged toenail snags the carpet he vacuumed so peacefully only a few afternoons ago. 
+      <br /><br />
+      “Now you will go!” He bestows a future upon the hat.
+      <br /><br />
+      He hobbled past its peripherals out to the kitchen. He scoured through a drawer of an unnecessary density of plastic bags to find the most sanitary of the plethora. After sifting through a list of pros and cons to decide which of the final two would be chosen he was forced to elect the largest that read, Thank You across its shell.
+      <br /><br />
+      He reentered the bedroom half-way expecting the hat to have hidden itself by now. It was still on the floor. He opened the bag wide enough to catch the varmint with two hands. He slammed the bag over the top of it, cinched the opening into his fist and smiled to himself in the wake of sequestering life’s controls again. 
+      <br /><br />
+      They left together through the barely used back door as to avoid interactions with either of his roommates, especially Reginald who, like gravity, would be required to pester him about the big Thank You bag.
+      <br /><br />
+      They stepped out the door into the   lands of the side yard and into a barrage of spider webs full of flies that had long accepted their failure to depart from the ornate trap. He flinched. But recovered and brushed his ironed shirt free of the freaky silk. They made it to the street. He thumbed through the possible options for disposal: “Dumpster behind the grocery, tie it to a cinder block and drop it in the lake, chop it into little bite sizes and feed it to the dogs?” 
+      <br /><br />
+      He shook his head, “What dogs?” 
+      <br /><br />
+      Suddenly, from the corner of his eye, while deeming his schemes scant, he saw Reginald stumbling around the bend in a deep stare at the ground. 
+      <br /><br />
+      “Oh shit!” he muffled. Clark jumped back around the side of the house to remain unseen amidst the spider webs and moisture. 
+      <br /><br />
+      “This is just ridiculous.” He complained. He looked down at the bag, “Thank You,” it said. He shook his head as to not accept its ploy of gratitude. He waited for Reggie to make it up the stairs to the front door. Reg fumbled the key out of his pocket. It clinked on the porch. He bent down to grab it and try again. Instead he smacked his head on the hand rail. The loud “thump,” was followed by an elongated “yow!” Reggie screamed for much longer than seemed appropriate for simply colliding one’s forehead with the rail. The volume ascended. It lingered at that level, “Oooowwooww!” 
+      <br /><br />
+      “Jesus Reggie.” Clark miffed to himself in concern for these wild lamentations. Reggie succeeded the second time in unlocking the front door and disappeared into the home. Clark jumped out from the corner and sprinted up the street in case Reginald returned to the porch. 
+      <br /><br />
+      Clear from the risk of his mission being exposed Clark is now free to re-address what he must do with the hat. A succession of empty bins lined the following streets but each possible solution passed on by without Clark being convinced of their worthiness for his soon to be estranged hat. “Well,” he said tentatively to each bin while stepping past. 
+      <br /><br />
+      He continued walking west block after block into districts of the metropolis still obscure to him despite his residency in the city extending nearly a decade. Eventually, at least a mile away from where the journey began, a slightly more gainful option appeared before his eyes. He glanced up at the sign and decided yes upon a thrift shop claiming to offer the most $ in town for used-clothing. He pushed on the door as suggested. The hinges squeaked a tenor cry notifying the associates inside of fresh clientele as it slowly let him pass. 
+      <br /><br />
+      “50 Bucks” he devised to be a reasonable bottom line for the piece. A handful of people occupied all the bench seats. Each of them were encumbered by enormous trash bags full of musty wear from their out-of-state upbringings at last on their final leg of dispossession after being staged in the garage a hundred Sundays ago. A seat opened up and he joined the pillowy line of cash-seekers after making his mark on the list. Moments passed in the briefly sunny window. He stared upon the varieties of speed with which other humans transported themselves down the road. The ones with full hands cruised the quickest which was paradoxical to Clark 
+      <br /><br />
+      “Well how about that?” He internalized.
+      <br /><br />
+      “Clark!” A woman with a true sense of urgency called out.
+      <br /><br />
+      He stood and stepped up to the counter.
+      <br /><br />
+      “Well what do we have here?” The woman behind a counter announced her presence in the form of a question. 
+      <br /><br />
+      “Well, a grown man, ma’am.” Clark assumed she asked about him.
+      <br /><br />
+      “What?”
+      <br /><br />
+      “I’m a grown man.” He said it again but didn’t enjoy repeating himself about such an obvious fact.
+      <br /><br />
+      “I’m talking about the bag, sir.”
+      <br /><br />
+      “Oh.” He paused to gather his wits out from under that confusing first impression. He looked back up at her-
+      <br /><br />
+      “What’s in the bag sir?” She reprised. 
+      <br /><br />
+      “Right.” He removed it for her to examine.
+      <br /><br />
+      “I see.” She ran her fingers along its contours; she lifted it from the side to peek under the hood. She noticed the thinning maroon polyester of the inner shell, “Mmm” she sounded off deliberately. Clark became uneasy as she finished her inspection and looked back up into his eyes. 
+      <br /><br />
+      “$3. Store credit.”  
+      <br /><br />
+      “What!”
+      <br /><br />
+      “Well sir, it’s-”
+      <br /><br />
+      “-It’s a real cowboy hat.”
+      <br /><br />
+      “Well yes, I see that, but it’s-”
+      <br /><br />
+      “-One of a kind.”
+      <br /><br />
+      “Oh? Well is there more you can tell me about the hat? You must have had it a long-”
+      <br /><br />
+      “No, no. I found it last night.”
+      <br /><br />
+      “Oh. Where did you find it?”
+      <br /><br />
+      “Sitting in the street.”
+      <br /><br />
+      “Well that makes sense why it’s so filthy, sir."
+      <br /><br />
+      “Store credit? Can you get anything with three bucks?”
+      <br /><br />
+      “Sir you found it in the street.”
+      <br /><br />
+      “I know where I found it!”
+      <br /><br />
+      Clark aggressively placed his hat back in the bag while eyeing the trendy woman and the rest of the spurious operation she’s been keeping here. Other employees’ heads popped up from behind racks of product like prairie dogs heeding a telepathic call for back up. 
+      <br /><br />  
+      “I know where I found it.” He repeated as he was forced to back down and dismiss himself from the establishment. He tried slamming the door while they shook their disappointed affects in unison, however the hydraulic-stop forbade any more of a scene. He looked down at the bag. “Thank You,” It said.
+      </p>
+      <br /><br />
+      <br /><br />
+      <h2>Restore</h2>
+      <br />
+      <p>
+      Reggie had meandered several blocks home, smacked his head on the railing by the door while reaching for keys and fell back asleep, still unsure if a whimper was necessary to process this relationship fracture. His dreams wavered free from their resting places casting a spell of submerged psychical sensations and boggling hypothetical permutations: A girl from the past, his 12th grade girlfriend Daphne at a stand or kiosk of some kind where both of them are attending to thousands of people lined up to receive a pamphlet. He passes them out until his hands turn raw and bleed. He tries to hide his reddening mitts but can’t stop handing out the pamphlets.  His bloody palms and fingers are revealed to her at last. She becomes upset, turns around and her head falls back. Her jaw opens like an underground silo, “Oooopen, ooooooopen” she says with visible sonic tones hurdling out of her mouth, “Oooopen, ooooooopen…”
+      <br /><br />
+      He opened his eyes to see a phone buzzing. He opened the phone to hear Clark. 
+      <br /><br />
+      “What are you doing?” He says.
+      <br /><br />
+      “Nothing.” 
+      <br /><br />
+      “Oh. Huh.”
+      <br /><br />
+      “Daphne and I are through.”
+      <br /><br />
+      “Who’s Daphne?”
+      <br /><br />
+      “What?” 
+      <br /><br />
+      “What? You said Daphne’s through with you. Who are you talking about?
+      <br /><br />
+      “Who’s Daphne?” Reginald now asks Clark.
+      <br /><br />
+      “That’s what I’m trying to ask y-”
+      <br /><br />
+      “-Cassandra. Sorry. Cassandra and I are through,” Reggie winced, “if you have to ask.” He could feel her leave again as the news went public.
+      <br /><br />
+      “I didn’t ask.” Clark disposed.
+      <br /><br />
+      “She says it’s cause I talk about aliens too much and she doesn’t even believe they’re real. Can you believe that?”
+      <br /><br />
+      “She doesn’t believe in aliens? Who doesn’t believe in aliens?” 
+      <br /><br />
+      “That’s what I’m saying!” Reggie missed the sarcasm.
+      <br /><br />
+      “Ok.” Clark paused to gently brush his temple, “So you’re still at home then?”
+      <br /><br />
+      “Still?”
+      <br /><br />
+      Clark would never let loose any sympathy through the telephone and the electrification of info merging into each other’s ears and extinguishing realer modes of communication he claimed to fan. He only saw the latent effects of perky ideas turning obsolete and tipping over the future’s corroding cliffs, slumping shapelessly into regret down into the entropic crevasses of electronic history worthy only to be distrusted. 
+      <br /><br />
+      After briefly phoning Reggie, Clark meandered on along the road he’d first traveled this morning after another perennial stint holing up in his tidy and sterile room; obediently sparse to be in congruence with the pangs that guided him through each winter.
+      <br /><br />
+      Clark arrived at home. He inferred they must be sleeping and weeping as he passed each of their closed doors en route to his own accommodations. 
+      <br /><br />
+      He entered his room. He eyed the bag. As to engage what the hat proposed, he pulled it from the bag and let it loose on the properly tucked bed. It spun asymmetrically. It bounced along one side and came to a stop flipped over on its top demonstrating its hole for Clark most curiously as to invite his cranial presence. At first notice Clark felt as though the landing were some form of sortition as though he had been elected by every detail in the universe leading to the empirical prong of this very probability. He irreverently shook that thought or anything of its type from his mind though loosening his tight ribbons of hair obediently swept to three o’clock. It bade its credentials to be too fantastically, unscientifically and non-linearly sourceless. The question: Why hat there? Becoming: Why hat here? could not possibly then be answered for Clark by: Why hat on head? 
+      <br /><br />
+      “Yes” he said aloud, “No” he then pointed. 
+      <br /><br />
+      He thus denied himself the hat again and gave it a snarl, a sour wrinkle that stayed pinched just above the left crest of his lip. He then seized the hat with both hands. He brought it towards his notorious frontal lobe but heard activity in the lavatory. His ears twitched at the interference like an imp caught in the noon light. His attention snapped back to the hat and he hastened for the backyard. “It must be hidden.”
+      <br /><br />
+      The rear of their property was an amphibious utopia for native frogs and newts who truthfully appraise the value of semi aquatic back yards with shady trees to anxiety regarding a hawk’s eye, and untended splintery fences stymieing any raccoon’s jackpot, and of course the highly damp soil to burrow in. He hopped and skipped across the parabola of stones suctioned to the earth up to an old shed that had become camouflaged by the roughage of the small-grade hill like an elderly crustacean decaying along a boulder in its stern legacy of bad storms held on now by only a leg or two. He opened its abandoned doors after several yanks. It was rank with chains of fungi floating microscopically this way and that, now ready to receive their first experience of human consciousness. 
+      <br /><br />
+      He tossed the hat deep into the shed; way back into the dark. He did not see how it landed. 
+      </p>
+      <br /><br />
+      <br /><br />
+      <h2>The Bargain</h2>
+      <br />
+      <p>
+      “Passing through orchards of consciousness, ripe and rotten fruit at its floor with potentiality, seed and flower still dangling like stars in a bushy universe un-birthed from their preconscious savannahs,” Nelson mutters to himself as to wind up the strength for this important moment. He looked at the two of them and spoke. 
 
+      “I’ve acquired a new inquiry after a recent experience and would like to discuss it with you if this is permissible.” Nelson bowed to his constituents Reginald and Clark who were both reading newspapers on the couch. Clark actually reads while Reginald is trying his damnedest to not just look at the pictures. Reginald, the impetuous type, bites immediately. 
 
-  
+      “Oh yeah? What is it this time?”
 
+      “Well gentlemen, after the events of last night I’ve come to believe that I am psychic. In fact, I know I am and wanted to simply inform you considering our mutual occupancy here,” he looked around with an arm outstretched, “in our beloved home!” He felt remarkable and unashamed in disseminating this very serious and sincere information. His weighted mind is now unburdened and the pineal is free to flourish.
 
-  
+      “What the hell are you talking like that for?” Clark blurted out. He was agitated by the word choice and pedantic lilt in Nelson’s voice. They, his constituents, were certainly unimpressed. However this laid not even the lightest scratch upon his intentions for Nelson’s metaphysical footing held strong after just last night stoking the fires of consciousness with utterly unabashed curiosity. 
 
+      “So, what are these ‘events’ you’re talking about?” Reginald ignored Clark’s derision and played along though only to stave any vulnerable trains of thought about his own set of events that occurred early, just this morning. Nelson was fit to distract the unrequited one with his tale.
 
+      “Last night, while at work, a strange and supremely eerie feeling came over me. It was as though I was being watched or participated with but not externally. It was coming from somewhere deep within, somewhere I had never been or can’t seem to remember. The skin covering my head suddenly felt as though it were truly on fire, each lock of hair swaying like a blade of flaming gas but somehow the blaze burned cool atop my head as to soothe rather than be insufferably hot.” 
 
-  
+      Reginald curled his brow suspiciously. 
 
+      Nelson continued, “A trusted co-worker began to look at me as though I were about to lose consciousness. He asked in a rushed voice ‘Are you okay?’ Once again I could feel this altered presence, but now it was seeping out of me. I said nothing while he continued to investigate my affect then suddenly he no longer seemed like himself at all. ‘It’s in him now’ I realized. I knew he had the supremely eerie feeling strewn through him too, 
 
+      “‘Yes, you are well. I have no need to be concerned.’ He said to me answering his own question. Then he left. 
 
-  
+      “The only thing in my mind to think after that was this phrase, or more like an insight with a melody: Buddha to Buddha communication. Over and over it sang through my mind, rubberizing and bouncing around for me. It took me over and somehow, with my mind now like wind, I believe it set me free.”
 
-  
+      The muscles surrounding Clark’s eyes began to squeeze in wariness while Nelson continued to verbalize what Clark concluded to be symptomatic behavior:
 
-  
+      “Shortly after my trusted co-worker left through a hall behind me and two other people went walking shoulder to shoulder past my booth. I noticed them only slightly due to being overtaken by what just happened. They opened the doors and were quickly out of my sight. The metaphysical jingle played again and again “Buddha to Buddha communication” until the trusted employee returned. But, he was free of the feeling this time and back to his wits, 
 
-  
+      “‘Did you see what just happened?’ he chuckled while expecting me to laugh along. But, I did nothing. 
 
-  
+      ‘Both of those guys just walked outside and pissed on either side of our double doors! Fucking disgusting! I hollered at ‘em of course. So don’t let them back in, alright?’”
 
-  
+      “He took off again but instantly I knew what I had to do. I had to walk through those doors and leave as the feeling had enacted for me, from within me, and I had to do it immediately! So I did!” Nelson paused. The silence itself even felt awkward while Clark looked to Reginald to confirm he was actually hearing this.
 
-  
+      “You just walked out?”
 
-  
+      “My job is of no importance in comparison with what I’ve now acquired. I left immediately as directed by whatever was awoken inside of me. And I left through the double doors.”
 
-  
+      “Because of the piss?” Reginald wondered.
 
-  
+      “So you really did quit your job! How are you going to pay rent? How are you going to pay for anything? Holy shit!” Clark put his hands to his ears attempting to block out the truth. It didn’t work. 
 
-  
+      “You’ve gone insane.”
 
-  
+      “I am not insane.” Nelson maintained.
 
-  
+      Clark lowered his hands to steady himself, then slowly moved them in the direction of Nelson as to momentarily soften the criticism toward his sensitive friend, “Look man, you just need to get your job back, okay? So go take a shower, or two. Then get your job back!” Clark drilled for sense but came up empty, while Reginald sniffed himself and pondered the criticisms he received in reference to consistent showering.
 
-  
+      “Just let me finish. There’s more. Okay?” 
 
-  
+      Clark folded up his paper, crossed his arms and looked at Nelson. 
 
-  
+      “Go on. You trampled through their piss…” Clark displayed his hands to signal Nelson to, of course, continue. 
 
-  
+      “Well, I went out to the street but no instant affirmation was shown to me-”
 
-  
+      “Great.” Clark celebrated.
 
-  
+      “-So I spoke to it, whatever it was, asking it what to do next and then I actually received a message! A very warm and clear picture of an old friend came before my mind’s eye. It was as though I could hear her talking. This thought, that thought, all of her thoughts permeated me like rainfall on the open sea or a couple of Californians suffering a spring deluge in a top-down convertible.” 
 
-  
+      Clark attempted the same hand motion but was met with decaying potency. Nelson rattled right along and he tipped his head forward. 
 
-  
+      “I somehow became the bearer of her substance and then knew I would see her. I continued walking toward home, the same way I always do and after a few blocks I was coming up Spring Street...” he gulps, “and sure enough...”
 
-  
+      The goose bumps on his arms rose as the information pored through him from last night into this moment. The skin of his entire cranium seemed to pucker up as though a loving owner were petting it methodically. The strange superficial sensation was coupled with an overpowering feeling of humility. Nelson let his head tip back prophetically. Reginald too sensed a certain charge spark the room. 
 
-  
+      “There she was! I couldn’t believe it! I was speechless. ‘Courtney!’ I shouted and waved. But she didn’t say anything. She was staring at something in the park. I walked closer to her and feared what might be the matter but as soon as I was an arm’s length away I became aware of what she was staring at. A sprinkler in the park across the street had broken and was gushing water that made for quite the fountain-like accessory in the lawn of this public space. ‘For three days the water has been running like that.’ She said to me.
 
-  
+      “I too stood in view of the broken sprinkler and continued the stare she had started. She walked away but I knew I need not say goodbye for something was already acknowledged. Soon she was out of sight and after staring at the spouting dilemma for a respectful amount of time I walked the rest of the way here in awe of what has come to be the most pivotal moment in my waking life. But again I was left with a new phrase from the supreme spirit, ‘Third’ it said.”
 
-  
+      “Maybe he’s just tired? Really tired?” Clark posited to Reggie beckoning assistance to steady the mess devolving before them. Reginald ignored Clark out of intrigue with Nelson’s claims, 
 
-  
+      “So you knew you’d see her? Like you really predicted the whole encounter?” 
 
-  
+      “Not the whole encounter but I knew she was coming or I was predetermined to see her, soon, pre-soon, before-soon.” Nelson replied.
 
-  
+      “But honestly, you really had that vision of her?” 
 
-  
+      “Yes.” Nelson confirmed with fervency.
 
-  
+      “And you could feel it being ‘soon’?”
 
-  
+      Nelson only nodded to confirm the follow-up question.
 
-  
+      “Hmm…” Reggie sat back in the couch, “So what are you going to do about it?”
 
-  
+      “I must seek a sage to guide me in developing the nimbility of this talent that I am so grateful for.” Nelson looked to the skies now with a righteous smile.
 
-  
+      “Well, let me know if you need help.” Reggie’s opinion on the story had flipped once Nelson mentioned the ESP-like activity. Reginald is well aware that such capabilities are very common in some alien species. Clark glanced at Reggie dismissively then gave his last comment on the matter, “Nimbility is not a word.” 
 
-  
+      He is very quiet but it’s a stretch to call Clark shy. He wasn’t your ordinary definition of the quiet guy having difficulties speaking to strangers with the anxiety and what not; that’s more like Nelson. Clark has none of that. It’s simply that he chooses not to talk and doesn’t seem to understand just why it is that other people speak so much. Those processes of thought that lend one to chatter and talking-it-out activities, narration of daily procedures and the relaying of information acquired in other group confabulation that is so popular among the common folk, died in him, a long time ago. 
 
-  
+      He adjusted his crisp newspaper back into the same form it previously possessed, everyday really, legibly unique slices of paper but held and folded the same way, everyday.
 
-  
+      “So where are you going to find the sage?” Reginald advanced his inquiry. 
 
-Cattle and Boy
+      “I don’t know. I suppose another sign of some sort will unveil itself when the time is right, or when I ask for it.” 
 
-  
+      Nelson on a very different hand is a small person, not physically but soulfully. He is a mouse, a mere squeak in a roaring world of consciousness. He was doomed to fail, not to lose exactly because he didn’t believe in competing but being tossed aside and run over are well within the matrices of this nice guy’s daily probabilities. His lifelines are submissive. His fate is minute. All these things mean that he requires sympathy, especially from the eyes of Reginald and Clark whose brief spurts of kindness are incentivized by the amusing and inane quandaries of the now psychic Nelson. Given the world handed him virtually nothing in the way of physical talent or an attention span, Nelson learned to trust his intuition more than common sense or any of the five senses for that matter. As a consequence of this he has recently become emotionally tied to extremely general concepts like “spirit” and “being”, wearing them like a bandolier of impreciseness wherever he goes. Despite his unflappable belief that he had discovered something true within himself regarding these concepts, the rest of the world (significantly less delicate than he) watched on feeling sorry for him and out of charity chose to humor his cute intentions. Two of these humorists were in fact Clark and Reginald. 
 
-In the distance there is a tower, a sky-scraping torch with a menacing blaze spouting voraciously bright flames at least dozens of feet up into the dark sky. He is flying toward this tower at unimaginable speed, so fast he’d lose his fingerprints if were he to reach out from the hull. He careens faster and steady like a magnet toward the tower. He must pull up, but he cannot adjust the course of his ship, “Pull up, goddamn you!” It does not adjust. “UP!” It will not adjust. “UUHHPP!”
+      They came from towns beyond the western ranges and population density of the coast, from the thinner air of the high desert. Clark’s childhood, for one reason or plenty, taught him to be greatly calm in the solitude of desert stretches. He appreciates the act of dismantling or even destroying life’s complications. He is a desert, simple and heavy like a rock and impervious to the sappy goop of loneliness, in fact he laps up that solitude slowly and meticulously like a prickly cactus, simply there, amidst a desert. 
 
-Clark gasps as his eye lids spring open. He peels himself up from the moist bedding of his sweaty, cold and dire sleep. He pulls his legs out from under the cover and sensory escalation. He shakes his head spattering the liquid about him and causing perspiration to drip into his palms as he caught focus on his fingerprints, 
+      Reginald is on a level where constant rebellion against his past reigns most important. If lost in the desert Reginald would surrender to the spectacle and blow through his supplies to die off loud and quickly in one cathartic blaze. Clark, still calm, would detect these reverberations while motionless, and probably not be above making use of the corpse of his dead friend. Despite bicker-worn gaps in even their best moments Clark and Reginald knew they could come together to protect Nelson.
 
-“What was that?” 
+      Along the way of his perpetual revolt against stuff that life makes him do, Reginald acquired a deep belief in and passion for aliens, as introduced previously. In that vane however he’s never considered himself too consumed with the litany of half-baked shows and clips of people divulging their weird nights in the woods. He sees himself as intelligent with a form of maturity and eliteness capable of leaping far beyond these screwball reactions. Although he has in fact made his position clear at many bar tops [“I’d get abducted!”] to similar and dissimilar patrons on multiple and repetitious occasions, the simple but boding word ‘too’ seemed to steer clear of describing his pupations, for instead, as he reflected, they ebbed outward premeditatedly like a decent fm radio station through the complicated swath of their town. 
 
-He turns to remove himself from the bed.
+      Nelson rarely spent as much time in his room as he did the rest of that afternoon. He is now unemployed however the main reason for being such a home-body today was to keep his efforts utterly focused on this psychic-hood gifted to him by that special feeling deep down inside. Being largely novice to his intentions, purposes and prayers Nelson stayed close to what he calculated to be best for his newly instated incumbency as the house-psychic: Buddha-to-Buddha communication and Third circled through his thoughts like encoded sound bites or last transmissions from the commander before the fuzz. To hone into the frequency of these messages and streams and enhance his meta-mental antenna’s radius he constructed a meditation pillow with the help of old sweatpants, puffy vests and several large cloth knots. Now with his HQ for finding the metaphysical, Nelson spent several hours on this pillow opening windows to increasingly more bizarre visions. Nelson’s breath and breadth of meditation deepened as these minutes, hours, and other portions of the day passed until late in the evening an intriguing hue shined forth: “It’s a green, a forest green, a green forest with a man? Is he sick? No he’s just lying down. Why is he lying down? Is it his chosen style to reach the stars or is he just tired?” Nelson peers deeper and there appears another body, a light-body leaving that man’s physical self. It eases away from his frame that is still lying unaffected. His arms spread and whirled from his hips like the spinning beams of a lighthouse as his back begins to right itself. His legs too compose a lotus position made of light. Nelson leans even closer to witness the moment when this illustrious light-form is completely freed. Seconds pass like millennia then suddenly, the man twists his neck and glares back at Nelson with green eyes! Nelson hyperventilates and is abruptly snapped out of this meditative state. He scrambles up into his bed keeping his eyes wide open for fear of what the hell just happened. 
 
-“AH!” He bursts in fright again! 
+      “What did I see?” 
 
-The cowboy hat is on the table.
+      After lying there and putting another hardy dent in the earth’s twirl’ his fear subsided into a safe and cozy mood. 
 
-“Where’s the lamp?” 
+      “But who was that?” 
 
-A bed with one blanket, a dresser, a shelf of only complete collections, a mirror, and a small lamp sitting on a bed-side table compose the innards of his room. He scans. He looks closely at the hat. He lifts reluctantly as it’s damp and germ-content a mystery. 
+      He straightened the relatively clean blanketing and slipped down in to get on to sleep and then, just as he was making his final descent into the unconscious his heart gave one bright beat and it clicked, “The sage!”  
+      </p>
 
-“Hwowee.” He wipes his brow in relief of finding the little lamp under the dome of the accessory. He tosses the hat to the floor in disgust. He stands, dresses himself, sliding all the necessary buttons into place to re-enter his well-preserved self-image. He turns around to confirm with the mirror that his appearance is properly arranged but is disrupted. There it is again sitting at his feet in the reflection of the mirror. He attempts to jump over it. His depth perception fails him in the reflection and instead of landing gracefully on the other side he is tripped up and tumbles into the shelf knocking the exactly organized books onto the floor and out of order. Reddening with embarrassment after what he perceives to be an aberration of clumsiness he lashes out at the hat! He swings his right foot toward the perspicacious enemy across the carpet floor. His visual gauging of the objects surrounding him is askew, now repeatedly, and the action of his big toe is thwarted painfully by the corner of his bed frame. “Ftunk.”
-
-“Yow!” He growls. The hat is still pointed in his direction. 
-
-“Fuck you.” He talks some shit to the hat as if it were looking at him belly aching in a deep cackle. His question why is there a cowboy hat in the street? morphed into a more distressing and pertinent question why in hell did I pick this hat up? 
-
-Clark stood and kept his distance, as to not underestimate its precocious nature. He replaced the books, keeping most of his weight on the left foot. He turns back to the hat. He strains to not holler as the damaged toenail snags the carpet he vacuumed so peacefully only a few afternoons ago. 
-
-“Now you will go!” He bestows a future upon the hat.
-
-He hobbled past its peripherals out to the kitchen. He scoured through a drawer of an unnecessary density of plastic bags to find the most sanitary of the plethora. After sifting through a list of pros and cons to decide which of the final two would be chosen he was forced to elect the largest that read, Thank You across its shell.
-
-He reentered the bedroom half-way expecting the hat to have hidden itself by now. It was still on the floor. He opened the bag wide enough to catch the varmint with two hands. He slammed the bag over the top of it, cinched the opening into his fist and smiled to himself in the wake of sequestering life’s controls again. 
-
-They left together through the barely used back door as to avoid interactions with either of his roommates, especially Reginald who, like gravity, would be required to pester him about the big Thank You bag.
-
-They stepped out the door into the   lands of the side yard and into a barrage of spider webs full of flies that had long accepted their failure to depart from the ornate trap. He flinched. But recovered and brushed his ironed shirt free of the freaky silk. They made it to the street. He thumbed through the possible options for disposal: “Dumpster behind the grocery, tie it to a cinder block and drop it in the lake, chop it into little bite sizes and feed it to the dogs?” 
-
-He shook his head, “What dogs?” 
-
-Suddenly, from the corner of his eye, while deeming his schemes scant, he saw Reginald stumbling around the bend in a deep stare at the ground. 
-
-“Oh shit!” he muffled. Clark jumped back around the side of the house to remain unseen amidst the spider webs and moisture. 
-
-“This is just ridiculous.” He complained. He looked down at the bag, “Thank You,” it said. He shook his head as to not accept its ploy of gratitude. He waited for Reggie to make it up the stairs to the front door. Reg fumbled the key out of his pocket. It clinked on the porch. He bent down to grab it and try again. Instead he smacked his head on the hand rail. The loud “thump,” was followed by an elongated “yow!” Reggie screamed for much longer than seemed appropriate for simply colliding one’s forehead with the rail. The volume ascended. It lingered at that level, “Oooowwooww!” 
-
-“Jesus Reggie.” Clark miffed to himself in concern for these wild lamentations. Reggie succeeded the second time in unlocking the front door and disappeared into the home. Clark jumped out from the corner and sprinted up the street in case Reginald returned to the porch. 
-
-Clear from the risk of his mission being exposed Clark is now free to re-address what he must do with the hat. A succession of empty bins lined the following streets but each possible solution passed on by without Clark being convinced of their worthiness for his soon to be estranged hat. “Well,” he said tentatively to each bin while stepping past. 
-
-He continued walking west block after block into districts of the metropolis still obscure to him despite his residency in the city extending nearly a decade. Eventually, at least a mile away from where the journey began, a slightly more gainful option appeared before his eyes. He glanced up at the sign and decided yes upon a thrift shop claiming to offer the most $ in town for used-clothing. He pushed on the door as suggested. The hinges squeaked a tenor cry notifying the associates inside of fresh clientele as it slowly let him pass. 
-
-“50 Bucks” he devised to be a reasonable bottom line for the piece. A handful of people occupied all the bench seats. Each of them were encumbered by enormous trash bags full of musty wear from their out-of-state upbringings at last on their final leg of dispossession after being staged in the garage a hundred Sundays ago. A seat opened up and he joined the pillowy line of cash-seekers after making his mark on the list. Moments passed in the briefly sunny window. He stared upon the varieties of speed with which other humans transported themselves down the road. The ones with full hands cruised the quickest which was paradoxical to Clark 
-
-“Well how about that?” He internalized.
-
-“Clark!” A woman with a true sense of urgency called out.
-
-He stood and stepped up to the counter.
-
-“Well what do we have here?” The woman behind a counter announced her presence in the form of a question. 
-
-“Well, a grown man, ma’am.” Clark assumed she asked about him.
-
-“What?”
-
-“I’m a grown man.” He said it again but didn’t enjoy repeating himself about such an obvious fact.
-
-“I’m talking about the bag, sir.”
-
-“Oh.” He paused to gather his wits out from under that confusing first impression. He looked back up at her-
-
-“What’s in the bag sir?” She reprised. 
-
-“Right.” He removed it for her to examine.
-
-“I see.” She ran her fingers along its contours; she lifted it from the side to peek under the hood. She noticed the thinning maroon polyester of the inner shell, “Mmm” she sounded off deliberately. Clark became uneasy as she finished her inspection and looked back up into his eyes. 
-
-“$3. Store credit.”  
-
-“What!”
-
-“Well sir, it’s-”
-
-“-It’s a real cowboy hat.”
-
-“Well yes, I see that, but it’s-”
-
-“-One of a kind.”
-
-“Oh? Well is there more you can tell me about the hat? You must have had it a long-”
-
-“No, no. I found it last night.”
-
-“Oh. Where did you find it?”
-
-“Sitting in the street.”
-
-“Well that makes sense why it’s so filthy, sir."
-
-“Store credit? Can you get anything with three bucks?”
-
-“Sir you found it in the street.”
-
-“I know where I found it!”
-
-Clark aggressively placed his hat back in the bag while eyeing the trendy woman and the rest of the spurious operation she’s been keeping here. Other employees’ heads popped up from behind racks of product like prairie dogs heeding a telepathic call for back up. 
-
-“I know where I found it.” He repeated as he was forced to back down and dismiss himself from the establishment. He tried slamming the door while they shook their disappointed affects in unison, however the hydraulic-stop forbade any more of a scene. He looked down at the bag. “Thank You,” It said.
-
-  
-
-Restore
-
-  
-
-  
-
-Reggie had meandered several blocks home, smacked his head on the railing by the door while reaching for keys and fell back asleep, still unsure if a whimper was necessary to process this relationship fracture. His dreams wavered free from their resting places casting a spell of submerged psychical sensations and boggling hypothetical permutations: A girl from the past, his 12th grade girlfriend Daphne at a stand or kiosk of some kind where both of them are attending to thousands of people lined up to receive a pamphlet. He passes them out until his hands turn raw and bleed. He tries to hide his reddening mitts but can’t stop handing out the pamphlets.  His bloody palms and fingers are revealed to her at last. She becomes upset, turns around and her head falls back. Her jaw opens like an underground silo, “Oooopen, ooooooopen” she says with visible sonic tones hurdling out of her mouth, “Oooopen, ooooooopen…”
-
-  
-
-He opened his eyes to see a phone buzzing. He opened the phone to hear Clark. 
-
-“What are you doing?” He says.
-
-“Nothing.” 
-
-“Oh. Huh.”
-
-“Daphne and I are through.”
-
-“Who’s Daphne?”
-
-“What?” 
-
-“What? You said Daphne’s through with you. Who are you talking about?
-
-“Who’s Daphne?” Reginald now asks Clark.
-
-“That’s what I’m trying to ask y-”
-
-“-Cassandra. Sorry. Cassandra and I are through,” Reggie winced, “if you have to ask.” He could feel her leave again as the news went public. 
-
-“I didn’t ask.” Clark disposed.
-
-“She says it’s cause I talk about aliens too much and she doesn’t even believe they’re real. Can you believe that?”
-
-“She doesn’t believe in aliens? Who doesn’t believe in aliens?” 
-
-“That’s what I’m saying!” Reggie missed the sarcasm.
-
-“Ok.” Clark paused to gently brush his temple, “So you’re still at home then?”
-
-“Still?”
-
-  
-
-Clark would never let loose any sympathy through the telephone and the electrification of info merging into each other’s ears and extinguishing realer modes of communication he claimed to fan. He only saw the latent effects of perky ideas turning obsolete and tipping over the future’s corroding cliffs, slumping shapelessly into regret down into the entropic crevasses of electronic history worthy only to be distrusted. 
-
-After briefly phoning Reggie, Clark meandered on along the road he’d first traveled this morning after another perennial stint holing up in his tidy and sterile room; obediently sparse to be in congruence with the pangs that guided him through each winter.
-
-Clark arrived at home. He inferred they must be sleeping and weeping as he passed each of their closed doors en route to his own accommodations. 
-
-He entered his room. He eyed the bag. As to engage what the hat proposed, he pulled it from the bag and let it loose on the properly tucked bed. It spun asymmetrically. It bounced along one side and came to a stop flipped over on its top demonstrating its hole for Clark most curiously as to invite his cranial presence. At first notice Clark felt as though the landing were some form of sortition as though he had been elected by every detail in the universe leading to the empirical prong of this very probability. He irreverently shook that thought or anything of its type from his mind though loosening his tight ribbons of hair obediently swept to three o’clock. It bade its credentials to be too fantastically, unscientifically and non-linearly sourceless. The question: Why hat there? Becoming: Why hat here? could not possibly then be answered for Clark by: Why hat on head? 
-
-“Yes” he said aloud, “No” he then pointed. 
-
-He thus denied himself the hat again and gave it a snarl, a sour wrinkle that stayed pinched just above the left crest of his lip. He then seized the hat with both hands. He brought it towards his notorious frontal lobe but heard activity in the lavatory. His ears twitched at the interference like an imp caught in the noon light. His attention snapped back to the hat and he hastened for the backyard. “It must be hidden.”
-
-The rear of their property was an amphibious utopia for native frogs and newts who truthfully appraise the value of semi aquatic back yards with shady trees to anxiety regarding a hawk’s eye, and untended splintery fences stymieing any raccoon’s jackpot, and of course the highly damp soil to burrow in. He hopped and skipped across the parabola of stones suctioned to the earth up to an old shed that had become camouflaged by the roughage of the small-grade hill like an elderly crustacean decaying along a boulder in its stern legacy of bad storms held on now by only a leg or two. He opened its abandoned doors after several yanks. It was rank with chains of fungi floating microscopically this way and that, now ready to receive their first experience of human consciousness. 
-
-He tossed the hat deep into the shed; way back into the dark. He did not see how it landed. 
-
-  
-
-  
-
-  
-
-  
-
-The Bargain 
-
-  
-
-“Passing through orchards of consciousness, ripe and rotten fruit at its floor with potentiality, seed and flower still dangling like stars in a bushy universe un-birthed from their preconscious savannahs,” Nelson mutters to himself as to wind up the strength for this important moment. He looked at the two of them and spoke. 
-
-“I’ve acquired a new inquiry after a recent experience and would like to discuss it with you if this is permissible.” Nelson bowed to his constituents Reginald and Clark who were both reading newspapers on the couch. Clark actually reads while Reginald is trying his damnedest to not just look at the pictures. Reginald, the impetuous type, bites immediately. 
-
-“Oh yeah? What is it this time?”
-
-“Well gentlemen, after the events of last night I’ve come to believe that I am psychic. In fact, I know I am and wanted to simply inform you considering our mutual occupancy here,” he looked around with an arm outstretched, “in our beloved home!” He felt remarkable and unashamed in disseminating this very serious and sincere information. His weighted mind is now unburdened and the pineal is free to flourish.
-
-“What the hell are you talking like that for?” Clark blurted out. He was agitated by the word choice and pedantic lilt in Nelson’s voice. They, his constituents, were certainly unimpressed. However this laid not even the lightest scratch upon his intentions for Nelson’s metaphysical footing held strong after just last night stoking the fires of consciousness with utterly unabashed curiosity. 
-
-“So, what are these ‘events’ you’re talking about?” Reginald ignored Clark’s derision and played along though only to stave any vulnerable trains of thought about his own set of events that occurred early, just this morning. Nelson was fit to distract the unrequited one with his tale.
-
-“Last night, while at work, a strange and supremely eerie feeling came over me. It was as though I was being watched or participated with but not externally. It was coming from somewhere deep within, somewhere I had never been or can’t seem to remember. The skin covering my head suddenly felt as though it were truly on fire, each lock of hair swaying like a blade of flaming gas but somehow the blaze burned cool atop my head as to soothe rather than be insufferably hot.” 
-
-Reginald curled his brow suspiciously. 
-
-Nelson continued, “A trusted co-worker began to look at me as though I were about to lose consciousness. He asked in a rushed voice ‘Are you okay?’ Once again I could feel this altered presence, but now it was seeping out of me. I said nothing while he continued to investigate my affect then suddenly he no longer seemed like himself at all. ‘It’s in him now’ I realized. I knew he had the supremely eerie feeling strewn through him too, 
-
-“‘Yes, you are well. I have no need to be concerned.’ He said to me answering his own question. Then he left. 
-
-“The only thing in my mind to think after that was this phrase, or more like an insight with a melody: Buddha to Buddha communication. Over and over it sang through my mind, rubberizing and bouncing around for me. It took me over and somehow, with my mind now like wind, I believe it set me free.”
-
-The muscles surrounding Clark’s eyes began to squeeze in wariness while Nelson continued to verbalize what Clark concluded to be symptomatic behavior:
-
-“Shortly after my trusted co-worker left through a hall behind me and two other people went walking shoulder to shoulder past my booth. I noticed them only slightly due to being overtaken by what just happened. They opened the doors and were quickly out of my sight. The metaphysical jingle played again and again “Buddha to Buddha communication” until the trusted employee returned. But, he was free of the feeling this time and back to his wits, 
-
-“‘Did you see what just happened?’ he chuckled while expecting me to laugh along. But, I did nothing. 
-
-‘Both of those guys just walked outside and pissed on either side of our double doors! Fucking disgusting! I hollered at ‘em of course. So don’t let them back in, alright?’”
-
-“He took off again but instantly I knew what I had to do. I had to walk through those doors and leave as the feeling had enacted for me, from within me, and I had to do it immediately! So I did!” Nelson paused. The silence itself even felt awkward while Clark looked to Reginald to confirm he was actually hearing this.
-
-“You just walked out?”
-
-“My job is of no importance in comparison with what I’ve now acquired. I left immediately as directed by whatever was awoken inside of me. And I left through the double doors.”
-
-“Because of the piss?” Reginald wondered.
-
-“So you really did quit your job! How are you going to pay rent? How are you going to pay for anything? Holy shit!” Clark put his hands to his ears attempting to block out the truth. It didn’t work. 
-
-“You’ve gone insane.”
-
-“I am not insane.” Nelson maintained.
-
-Clark lowered his hands to steady himself, then slowly moved them in the direction of Nelson as to momentarily soften the criticism toward his sensitive friend, “Look man, you just need to get your job back, okay? So go take a shower, or two. Then get your job back!” Clark drilled for sense but came up empty, while Reginald sniffed himself and pondered the criticisms he received in reference to consistent showering.
-
-“Just let me finish. There’s more. Okay?” 
-
-Clark folded up his paper, crossed his arms and looked at Nelson. 
-
-“Go on. You trampled through their piss…” Clark displayed his hands to signal Nelson to, of course, continue. 
-
-“Well, I went out to the street but no instant affirmation was shown to me-”
-
-“Great.” Clark celebrated.
-
-“-So I spoke to it, whatever it was, asking it what to do next and then I actually received a message! A very warm and clear picture of an old friend came before my mind’s eye. It was as though I could hear her talking. This thought, that thought, all of her thoughts permeated me like rainfall on the open sea or a couple of Californians suffering a spring deluge in a top-down convertible.” 
-
-Clark attempted the same hand motion but was met with decaying potency. Nelson rattled right along and he tipped his head forward. 
-
-“I somehow became the bearer of her substance and then knew I would see her. I continued walking toward home, the same way I always do and after a few blocks I was coming up Spring Street...” he gulps, “and sure enough...”
-
-The goose bumps on his arms rose as the information pored through him from last night into this moment. The skin of his entire cranium seemed to pucker up as though a loving owner were petting it methodically. The strange superficial sensation was coupled with an overpowering feeling of humility. Nelson let his head tip back prophetically. Reginald too sensed a certain charge spark the room. 
-
-“There she was! I couldn’t believe it! I was speechless. ‘Courtney!’ I shouted and waved. But she didn’t say anything. She was staring at something in the park. I walked closer to her and feared what might be the matter but as soon as I was an arm’s length away I became aware of what she was staring at. A sprinkler in the park across the street had broken and was gushing water that made for quite the fountain-like accessory in the lawn of this public space. ‘For three days the water has been running like that.’ She said to me.
-
-“I too stood in view of the broken sprinkler and continued the stare she had started. She walked away but I knew I need not say goodbye for something was already acknowledged. Soon she was out of sight and after staring at the spouting dilemma for a respectful amount of time I walked the rest of the way here in awe of what has come to be the most pivotal moment in my waking life. But again I was left with a new phrase from the supreme spirit, ‘Third’ it said.”
-
-“Maybe he’s just tired? Really tired?” Clark posited to Reggie beckoning assistance to steady the mess devolving before them. Reginald ignored Clark out of intrigue with Nelson’s claims, 
-
-“So you knew you’d see her? Like you really predicted the whole encounter?” 
-
-“Not the whole encounter but I knew she was coming or I was predetermined to see her, soon, pre-soon, before-soon.” Nelson replied.
-
-“But honestly, you really had that vision of her?” 
-
-“Yes.” Nelson confirmed with fervency.
-
-“And you could feel it being ‘soon’?”
-
-Nelson only nodded to confirm the follow-up question.
-
-“Hmm…” Reggie sat back in the couch, “So what are you going to do about it?”
-
-“I must seek a sage to guide me in developing the nimbility of this talent that I am so grateful for.” Nelson looked to the skies now with a righteous smile.
-
-“Well, let me know if you need help.” Reggie’s opinion on the story had flipped once Nelson mentioned the ESP-like activity. Reginald is well aware that such capabilities are very common in some alien species. Clark glanced at Reggie dismissively then gave his last comment on the matter, “Nimbility is not a word.” 
-
-He is very quiet but it’s a stretch to call Clark shy. He wasn’t your ordinary definition of the quiet guy having difficulties speaking to strangers with the anxiety and what not; that’s more like Nelson. Clark has none of that. It’s simply that he chooses not to talk and doesn’t seem to understand just why it is that other people speak so much. Those processes of thought that lend one to chatter and talking-it-out activities, narration of daily procedures and the relaying of information acquired in other group confabulation that is so popular among the common folk, died in him, a long time ago. 
-
-He adjusted his crisp newspaper back into the same form it previously possessed, everyday really, legibly unique slices of paper but held and folded the same way, everyday.
-
-“So where are you going to find the sage?” Reginald advanced his inquiry. 
-
-“I don’t know. I suppose another sign of some sort will unveil itself when the time is right, or when I ask for it.” 
-
-Nelson on a very different hand is a small person, not physically but soulfully. He is a mouse, a mere squeak in a roaring world of consciousness. He was doomed to fail, not to lose exactly because he didn’t believe in competing but being tossed aside and run over are well within the matrices of this nice guy’s daily probabilities. His lifelines are submissive. His fate is minute. All these things mean that he requires sympathy, especially from the eyes of Reginald and Clark whose brief spurts of kindness are incentivized by the amusing and inane quandaries of the now psychic Nelson. Given the world handed him virtually nothing in the way of physical talent or an attention span, Nelson learned to trust his intuition more than common sense or any of the five senses for that matter. As a consequence of this he has recently become emotionally tied to extremely general concepts like “spirit” and “being”, wearing them like a bandolier of impreciseness wherever he goes. Despite his unflappable belief that he had discovered something true within himself regarding these concepts, the rest of the world (significantly less delicate than he) watched on feeling sorry for him and out of charity chose to humor his cute intentions. Two of these humorists were in fact Clark and Reginald. 
-
-They came from towns beyond the western ranges and population density of the coast, from the thinner air of the high desert. Clark’s childhood, for one reason or plenty, taught him to be greatly calm in the solitude of desert stretches. He appreciates the act of dismantling or even destroying life’s complications. He is a desert, simple and heavy like a rock and impervious to the sappy goop of loneliness, in fact he laps up that solitude slowly and meticulously like a prickly cactus, simply there, amidst a desert. 
-
-Reginald is on a level where constant rebellion against his past reigns most important. If lost in the desert Reginald would surrender to the spectacle and blow through his supplies to die off loud and quickly in one cathartic blaze. Clark, still calm, would detect these reverberations while motionless, and probably not be above making use of the corpse of his dead friend. Despite bicker-worn gaps in even their best moments Clark and Reginald knew they could come together to protect Nelson.
-
-Along the way of his perpetual revolt against stuff that life makes him do, Reginald acquired a deep belief in and passion for aliens, as introduced previously. In that vane however he’s never considered himself too consumed with the litany of half-baked shows and clips of people divulging their weird nights in the woods. He sees himself as intelligent with a form of maturity and eliteness capable of leaping far beyond these screwball reactions. Although he has in fact made his position clear at many bar tops [“I’d get abducted!”] to similar and dissimilar patrons on multiple and repetitious occasions, the simple but boding word ‘too’ seemed to steer clear of describing his pupations, for instead, as he reflected, they ebbed outward premeditatedly like a decent fm radio station through the complicated swath of their town. 
-
-  
-
-Nelson rarely spent as much time in his room as he did the rest of that afternoon. He is now unemployed however the main reason for being such a home-body today was to keep his efforts utterly focused on this psychic-hood gifted to him by that special feeling deep down inside. Being largely novice to his intentions, purposes and prayers Nelson stayed close to what he calculated to be best for his newly instated incumbency as the house-psychic: Buddha-to-Buddha communication and Third circled through his thoughts like encoded sound bites or last transmissions from the commander before the fuzz. To hone into the frequency of these messages and streams and enhance his meta-mental antenna’s radius he constructed a meditation pillow with the help of old sweatpants, puffy vests and several large cloth knots. Now with his HQ for finding the metaphysical, Nelson spent several hours on this pillow opening windows to increasingly more bizarre visions. Nelson’s breath and breadth of meditation deepened as these minutes, hours, and other portions of the day passed until late in the evening an intriguing hue shined forth: “It’s a green, a forest green, a green forest with a man? Is he sick? No he’s just lying down. Why is he lying down? Is it his chosen style to reach the stars or is he just tired?” Nelson peers deeper and there appears another body, a light-body leaving that man’s physical self. It eases away from his frame that is still lying unaffected. His arms spread and whirled from his hips like the spinning beams of a lighthouse as his back begins to right itself. His legs too compose a lotus position made of light. Nelson leans even closer to witness the moment when this illustrious light-form is completely freed. Seconds pass like millennia then suddenly, the man twists his neck and glares back at Nelson with green eyes! Nelson hyperventilates and is abruptly snapped out of this meditative state. He scrambles up into his bed keeping his eyes wide open for fear of what the hell just happened. 
-
-“What did I see?” 
-
-After lying there and putting another hardy dent in the earth’s twirl’ his fear subsided into a safe and cozy mood. 
-
-“But who was that?” 
-
-He straightened the relatively clean blanketing and slipped down in to get on to sleep and then, just as he was making his final descent into the unconscious his heart gave one bright beat and it clicked, “The sage!”
-
-  
-
-  
-
-  
-
-  
-
-The Coincidence
-
-  
-
-  
-
-The next day Nelson went walking through the streets of the city. He carried upon his head a large pair of headphones which bulged outward for easy notice and potential snickering by passers-by; many of whom indulged in the unkind projection of their insecurities. He glances, and glances back again at a poster that hugs the cylindrical plane of a domesticated column of wood. It mentions meditation and the power of hearing a prophet. The poster itself is green, printed by any sort of printer with the copy centered by the profile of a hairless man. 
+      <br /><br /><br /><br />
+      <h2>The Coincidence</h2>
+      <br />
+      <p>
+      The next day Nelson went walking through the streets of the city. He carried upon his head a large pair of headphones which bulged outward for easy notice and potential snickering by passers-by; many of whom indulged in the unkind projection of their insecurities. He glances, and glances back again at a poster that hugs the cylindrical plane of a domesticated column of wood. It mentions meditation and the power of hearing a prophet. The poster itself is green, printed by any sort of printer with the copy centered by the profile of a hairless man. 
 
 The impetus of his walk was to test out a “guide to meditation” audio presentation claiming to offer a pathway into the astral plane and hopefully by such capacities another encounter with the green eyed man he met earlier. Being in such a mood and authentically attracted to such avocations this poster naturally caught his attention. He gazed deeper into the sheet of paper wondering who this person was and noticed the promoted event would be held in just an hour. 
 
@@ -629,16 +517,13 @@ The barkeep and the punk twins now in a formidable triad of rejection shout in u
 “Leave!” 
 
 “Leave!”
-
+      </p>
   
-
-  
-
-Treasure
-
-  
-
-In the morning he propped himself up and rolled to work. He dismounted the steed, stallion, exquisite extension of his body otherwise known as a bicycle in the condition of Reggie’s fanciful maintenance skills. It boasts protective and tubular foam along the bars sheathed in shiny nylon dating to the excitable hues of early electronics and the spunk of decades past. The tires have refused to match for years demonstrating his rejection of any proper two-wheeled aesthetic. He’d occasionally attach fireworks to the back, or front, and speed down the hills of his neighborhood as to reawaken the attitudes of his 11 year old self, as to stuff in the mouth of maturity a rag doused in the angst of a lost boy, as to stymie the boulder of adulthood perpetually rolling toward him with the anti-heroic wedge of not-giving-a-fuck. 
+      <br /><br /><br /><br />
+      <h2>Treasure</h2>
+      <br />
+      <p>
+      In the morning he propped himself up and rolled to work. He dismounted the steed, stallion, exquisite extension of his body otherwise known as a bicycle in the condition of Reggie’s fanciful maintenance skills. It boasts protective and tubular foam along the bars sheathed in shiny nylon dating to the excitable hues of early electronics and the spunk of decades past. The tires have refused to match for years demonstrating his rejection of any proper two-wheeled aesthetic. He’d occasionally attach fireworks to the back, or front, and speed down the hills of his neighborhood as to reawaken the attitudes of his 11 year old self, as to stuff in the mouth of maturity a rag doused in the angst of a lost boy, as to stymie the boulder of adulthood perpetually rolling toward him with the anti-heroic wedge of not-giving-a-fuck. 
 
 Despite purchasing this genius invention from the same store as the young computeristo not five days older than he riding the money waves of the tech-boom, and receiving advice from said boomerite regarding the whereabouts of the (then) obviously located air pumps, Reggie is convinced that no yuppie persona could bare the authentic vigor and creativity with which he prowled the streets of his city. On sight they’d squeal and melt back into the numbing goop from which all these neighborhood wranglers came. Reggie, along with others of similar conviction believed they had indeed leveraged themselves away from the hands of the capitalist cyclops drooling for another lengthy gnash upon their sheepish souls that excrete the productive dung that is the idyllic consumer. 
 
@@ -719,14 +604,12 @@ It bangs against the wall and Reginald drops face first to the ground. He loses 
 “What? Why have you brought me this, this from Peon, this puzzle in the puke? Could it be a significant sign? A sign so significant we must search out new signs, signs on roads and off ramps, a sign that we must change course and steer clear of the old ruts in the drill as to bond anew and free of it all? Is a time of going to a different place afoot? Is this the smell in the air? Is there any other possibility than his message from way out there being just this, a heavenly subpoena to arrive at the designated location within 72 hours?” 
 
 Reginald remained on the floor of Nelson’s room respirating loud and coarsely.
-
-  
-  
-
-A Run On Serendipity 
-
-
-_We tack backward in chronology ever so slightly,_ 
+      </p>
+      <br /><br /><br /><br />
+      <h2>A Run On Serendipity</h2>
+      <br />
+      <p>
+      _We tack backward in chronology ever so slightly,_ 
 
 _to be informed of Clark’s most recent affairs_. 
 
@@ -824,17 +707,25 @@ He turned the ignition. He felt a rumble. 
 “No coincidences?”
 
 “Yes.” Nelson whispered. 
+      </p>
+  
+
+ 
+
+
+
 
   
 
 
+  <br /><br /><br /><br />
+
+<h2>Part 2</h2>
+<br />
+<h2>A Library in the Entendre </h2>
   
 
-#### 2
 
-  
-
-A Library in the Entendre 
 
   
 

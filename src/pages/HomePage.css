@@ -23,7 +23,7 @@
         font-weight: 400;
         font-style: normal;
         padding-left: 1%;
-      
+
 }
 
 .sideBar {
@@ -65,4 +65,24 @@
 
 .openEmpButton:hover {
     color: rgb(21, 178, 125);
+}
+
+p::selection {
+    background-color: antiquewhite; /* Choose your desired color */
+    color: #242424;
+}
+
+h1::selection {
+    background-color: antiquewhite; /* Choose your desired color */
+    color: #242424;
+}
+
+h2::selection {
+    background-color: antiquewhite; /* Choose your desired color */
+    color: #242424;
+}
+
+h3::selection {
+    background-color: antiquewhite; /* Choose your desired color */
+    color: #242424;
 }

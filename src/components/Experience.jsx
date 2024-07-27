@@ -57,13 +57,6 @@ export default function Experience() {
       </div>
       
       <div className='refBox'>
-      <h3>Broader Experience</h3>
-      <p>
-      B.A. Philosophy from Seattle University, Spanish minor degree- Graduated 2010<br />
-      Pursuing an education in Web development, JS bootcamp through Operation Spark <br />
-      Licensed Tour Guide in the city of New Orleans
-      </p>
-
       <h3>References</h3>
 
       <p>

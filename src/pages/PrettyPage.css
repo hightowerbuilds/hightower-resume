@@ -15,3 +15,8 @@
 .prettyPageNavLink {
     color: seagreen;
 }
+
+p::selection {
+    background-color: antiquewhite; /* Choose your desired color */
+    color: black;
+}
