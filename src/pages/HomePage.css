@@ -17,32 +17,31 @@
 }
 
 .mainNameTitle {
-  
-        font-family: "Permanent Marker", cursive;
-        font-weight: 400;
-        font-style: normal;
-        padding-left: 1%;
-
+    font-family: "Permanent Marker", cursive;
+    font-weight: 400;
+    font-style: normal;
+    padding-left: 1%;
 }
 
 .sideBar {
     position: fixed;
     background-color: #242424;
     height: 100vh;
-    width: 15vh;
+    width: 200px;
     border-right:rgb(67, 132, 132) 2px solid;
+    border-left:rgb(67, 132, 132) 6px solid;
     padding: 2%;
-  
 }
 
 .mainHomeSection {
-    margin-left: 15vh;
+    margin-left: 200px;
     padding-left: 1vh;
     padding-top: 2%;
 }
 
 
 .openInfoButton {
+    display: flex;
     background-color: #242424;
     font-family: "Permanent Marker", cursive;
     color: rgb(67, 132, 132);
@@ -51,6 +50,10 @@
     width: 12vh;
     border: #242424;
     transition: 500ms ease-in-out;
+}
+
+.openInfoButton:hover {
+    color: orangered;
 }
 
 

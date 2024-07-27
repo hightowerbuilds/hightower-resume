@@ -5,7 +5,8 @@ import PersonalInfo from '../components/PersonalInfo';
 import CreativeWriting from '../components/CreativeWriting';
 import LandingContent from '../components/LandingContent';
 import Education from '../components/Education';
-import Blog from '../components/Blog';
+import Blog from '../components/Blog/Blog';
+import Development from '../components/Development/Development';
 
 export default function HomePage() {
 
@@ -19,8 +20,9 @@ export default function HomePage() {
     { name: 'home',             component: <LandingContent />},
     { name: 'employment',       component: <Experience /> },
     { name: 'education',        component: <Education /> },
+    { name: 'web dev',          component: <Development />},
     { name: 'creative',         component: <CreativeWriting /> },
-    { name: 'contact info',     component: <PersonalInfo /> },
+    { name: 'contact',          component: <PersonalInfo /> },
     { name: 'blog',             component: <Blog />},
   ];
 
