@@ -1,10 +1,10 @@
 import './HomePage.css';
 import { useState } from 'react';
-import Experience from '../components/Experience';
-import PersonalInfo from '../components/PersonalInfo';
+import Experience from '../components/Experience/Experience';
+import PersonalInfo from '../components/PersonalInfo/PersonalInfo';
 import CreativeWriting from '../components/CreativeWriting/CreativeWriting';
-import LandingContent from '../components/LandingContent';
-import Education from '../components/Education';
+import LandingContent from '../components/LandingContent/LandingContent';
+import Education from '../components/Education/Education';
 import Blog from '../components/Blog/Blog';
 import Development from '../components/Development/Development';
 
