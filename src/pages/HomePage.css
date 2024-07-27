@@ -10,7 +10,6 @@
     width: 100%;
     height: 100vh;
     margin: 0%;
-    padding: 2%;
     font-family: monospace;
     font-size: 20px;
     background-color: #242424;
@@ -32,17 +31,22 @@
     height: 100vh;
     width: 15vh;
     border-right:rgb(67, 132, 132) 2px solid;
+    padding: 2%;
+  
 }
 
 .mainHomeSection {
     margin-left: 15vh;
     padding-left: 1vh;
+    padding-top: 2%;
 }
+
 
 .openInfoButton {
     background-color: #242424;
+    font-family: "Permanent Marker", cursive;
     color: rgb(67, 132, 132);
-    font-size: 20px;
+    font-size: 24px;
     height: 3vh;
     width: 12vh;
     border: #242424;

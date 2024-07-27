@@ -4,8 +4,8 @@ import './PersonalInfo.css'
 export default function PersonalInfo() {
   return (
     <div className='personalInfoMainBox'>
-          <Link className='github' to="https://www.linkedin.com/in/luke-hightower-a31a231a5/">linkedIn</Link>
-        <Link className='github' to="https://github.com/hightowerbuilds">github</Link>
+          <Link className='github' to="https://www.linkedin.com/in/luke-hightower-a31a231a5/">LinkedIn</Link>
+        <Link className='github' to="https://github.com/hightowerbuilds">GitHub</Link>
         <p className='personalInfo'>
           (503) 341-2655
           <br />

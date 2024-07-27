@@ -2,9 +2,9 @@ import './Education.css'
 
 export default function Education() {
   return (
-    <div>
+    <div className='educationMainBox'>
       
-      <h3>Education and Certifications</h3>
+      <h2 className='educationTitle'>Education and Certifications</h2>
       <p>
       B.A. Philosophy from Seattle University, Spanish minor degree- Graduated 2010<br />
       Pursuing an education in Web development, JS bootcamp through Operation Spark <br />

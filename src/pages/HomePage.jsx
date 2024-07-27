@@ -5,6 +5,7 @@ import PersonalInfo from '../components/PersonalInfo';
 import CreativeWriting from '../components/CreativeWriting';
 import LandingContent from '../components/LandingContent';
 import Education from '../components/Education';
+import Blog from '../components/Blog';
 
 export default function HomePage() {
 
@@ -15,11 +16,12 @@ export default function HomePage() {
   };
 
   const sectionData = [
-    { name: 'home',                   component: <LandingContent />},
-    { name: 'employment experience',  component: <Experience /> },
-    { name: 'education',              component: <Education /> },
-    { name: 'creative writing',       component: <CreativeWriting /> },
-    { name: 'contact info',           component: <PersonalInfo /> },
+    { name: 'home',             component: <LandingContent />},
+    { name: 'employment',       component: <Experience /> },
+    { name: 'education',        component: <Education /> },
+    { name: 'creative',         component: <CreativeWriting /> },
+    { name: 'contact info',     component: <PersonalInfo /> },
+    { name: 'blog',             component: <Blog />},
   ];
 
   return (
