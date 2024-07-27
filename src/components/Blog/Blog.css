@@ -6,14 +6,13 @@
 
 .blogTitle {
     font-family: 'Courier New', Courier, monospace;
-    font-size: 22px;
-    color: blueviolet;
+    color: slateblue
 }
 
 .blogContentSection {
     font-family: optima;
     font-size: 18px;
-    color: blueviolet;
+    color: slateblue;
     margin: 3%;
 }
 
