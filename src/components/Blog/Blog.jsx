@@ -3,7 +3,9 @@ import './Blog.css'
 export default function Blog() {
   return (
     <div className='blogMainBox'>
-      <h2 className='blogTitle'>!seriousBlog</h2>
+      <h2 className='blogTitle'>
+        <i>!verySeriousBlog</i>
+      </h2>
       <div>
         
           <p className='blogContentSection'>
