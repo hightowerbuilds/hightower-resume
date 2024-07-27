@@ -8,7 +8,7 @@ import Education from '../components/Education';
 
 export default function HomePage() {
 
-  const [activeSection, setActiveSection] = useState(null);
+  const [activeSection, setActiveSection] = useState('home');
 
   const toggleSection = (sectionName) => {
     setActiveSection(activeSection === sectionName ? null : sectionName);
