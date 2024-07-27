@@ -4,6 +4,7 @@ import Experience from '../components/Experience';
 import PersonalInfo from '../components/PersonalInfo';
 import CreativeWriting from '../components/CreativeWriting';
 import LandingContent from '../components/LandingContent';
+import Education from '../components/Education';
 
 export default function HomePage() {
 
@@ -17,6 +18,7 @@ export default function HomePage() {
     { name: 'home', component: <LandingContent />},
     { name: 'contact info', component: <PersonalInfo /> },
     { name: 'employment experience', component: <Experience /> },
+    { name: 'education', component: <Education /> },
     { name: 'creative writing', component: <CreativeWriting /> },
   ];
 
