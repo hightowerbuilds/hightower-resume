@@ -1,25 +1,18 @@
 
 .personalInfoMainBox {
-    padding-left: 1%;
+    padding: 5%;
     width: 100%; 
     display: flex; 
-    justify-content: center;
     font-family: optima;
     font-size: 24px;
 }
 
-.personalInfo { 
-    padding-left: 1%;
-    width: fit-content; 
-    height: fit-content;
-    display: flex; 
-    justify-content: center;
-    font-family: optima;
+
+.personalLink {
+    color: darkcyan;
+    transition: 500ms ease-in-out;
 }
 
-.github {
-    padding-left: 1%;
-    font-family: "Permanent Marker", cursive;
-    font-size: 32px;
-
+.personalLink:hover {
+    color: orangered;
 }

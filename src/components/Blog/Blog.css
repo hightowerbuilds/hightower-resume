@@ -1,0 +1,22 @@
+
+
+.blogMainBox {
+    margin: 5%;
+}
+
+.blogTitle {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    color: blueviolet;
+}
+
+.blogContentSection {
+    font-family: optima;
+    font-size: 18px;
+    color: blueviolet;
+    margin: 3%;
+}
+
+.blogContentBody {
+    margin-left: 5%;
+}
