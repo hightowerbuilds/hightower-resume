@@ -49,9 +49,6 @@
     transition: 500ms ease-in-out;
 }
 
-.openInfoButton:hover {
-    color: rgb(21, 178, 125);
-}
 
 .openEmpButton {
     background-color: #242424;
@@ -63,9 +60,7 @@
     transition: 500ms ease-in-out;
 }
 
-.openEmpButton:hover {
-    color: rgb(21, 178, 125);
-}
+
 
 p::selection {
     background-color: antiquewhite; /* Choose your desired color */
