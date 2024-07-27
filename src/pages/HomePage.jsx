@@ -15,11 +15,11 @@ export default function HomePage() {
   };
 
   const sectionData = [
-    { name: 'home', component: <LandingContent />},
-    { name: 'contact info', component: <PersonalInfo /> },
-    { name: 'employment experience', component: <Experience /> },
-    { name: 'education', component: <Education /> },
-    { name: 'creative writing', component: <CreativeWriting /> },
+    { name: 'home',                   component: <LandingContent />},
+    { name: 'employment experience',  component: <Experience /> },
+    { name: 'education',              component: <Education /> },
+    { name: 'creative writing',       component: <CreativeWriting /> },
+    { name: 'contact info',           component: <PersonalInfo /> },
   ];
 
   return (
