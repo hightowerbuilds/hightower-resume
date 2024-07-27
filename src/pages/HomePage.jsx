@@ -3,6 +3,7 @@ import { useState } from 'react';
 import Experience from '../components/Experience';
 import PersonalInfo from '../components/PersonalInfo';
 import CreativeWriting from '../components/CreativeWriting';
+import LandingContent from '../components/LandingContent';
 
 export default function HomePage() {
 
@@ -13,6 +14,7 @@ export default function HomePage() {
   };
 
   const sectionData = [
+    { name: 'home', component: <LandingContent />},
     { name: 'contact info', component: <PersonalInfo /> },
     { name: 'employment experience', component: <Experience /> },
     { name: 'creative writing', component: <CreativeWriting /> },
