@@ -6,3 +6,11 @@
 .educationTitle {
     font-family: "Permanent Marker", cursive;
 }
+
+.educationBodySection {
+    margin: 3%;
+}
+
+.educationListDetail {
+    margin: 3%;
+}

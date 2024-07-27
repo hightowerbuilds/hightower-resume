@@ -5,11 +5,29 @@ export default function Education() {
     <div className='educationMainBox'>
       
       <h2 className='educationTitle'>Education and Certifications</h2>
-      <p>
-      B.A. Philosophy from Seattle University, Spanish minor degree- Graduated 2010<br />
-      Pursuing an education in Web development, JS bootcamp through Operation Spark <br />
-      Licensed Tour Guide in the city of New Orleans
-      </p>
+      <ul className='educationBodySection'>
+        <li>
+          <p>
+          2010 - B.A. Philosophy from Seattle University
+          <li className='educationListDetail'>
+            Emphasis on Japanense Zen Buddhist Philosophy and surrounding authors dating back to 600BCE and to the modern era. 
+          </li>
+          </p>
+        </li>
+        <li>
+          <p>
+            2010-2012 - Certified Residential Counselor through Seattle Chilrdren's Home
+          </p>
+        </li>
+        <li>
+          <p>
+          2022 - Introduction to JavaScript - OperationSpark (NOLA)
+          </p>
+        </li>
+        <li>
+         2023 - Licensed Tour Guide, French Quarter NOLA
+        </li>
+      </ul>
 
     </div>
   )
