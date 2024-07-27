@@ -1,34 +1,23 @@
 
+.personalInfoMainBox {
+    padding-left: 1%;
+    width: 100%; 
+    display: flex; 
+    justify-content: center;
+    font-family: optima;
+    font-size: 24px;
+}
 
+.personalInfo { 
+    padding-left: 1%;
+    width: fit-content; 
+    height: fit-content;
+    display: flex; 
+    justify-content: center;
+    font-family: optima;
+}
 
-.fullName { 
+.github {
     padding-left: 1%;
-    width: fit-content; 
-    display: flex; 
-    justify-content: center;
     font-family: optima;
-}
-.phoneNumber {  
-    padding-left: 1%;
-    width: fit-content; 
-    display: flex; 
-    justify-content: center;
-    font-family: optima;
-    font-size: 24px;
-}
-.email {  
-    padding-left: 1%;
-    width: fit-content; 
-    display: flex; 
-    justify-content: center; 
-    font-family: optima;
-    font-size: 24px;
-}
-.homeAddress {  
-    padding-left: 1%;
-    width: fit-content; 
-    display: flex; 
-    justify-content: center;
-    font-family: optima;
-    font-size: 24px;
 }

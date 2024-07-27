@@ -1,13 +1,20 @@
+import { Link } from 'react-router-dom'
 import './PersonalInfo.css'
 
 export default function PersonalInfo() {
   return (
-    <div>
-        {/* <h1 className="fullName">Luke Hightower</h1> */}
-        <p className="phoneNumber">(503) 341-2655</p>
-        <p className="email">lukehightower11@gmail.com</p>
-        <p className="homeAddress">1107 HALSEY DR. COUPEVILLE, WA 98239</p>
-     
+    <div className='personalInfoMainBox'>
+          <Link className='github' to="https://www.linkedin.com/in/luke-hightower-a31a231a5/">linkedIn</Link>
+        <Link className='github' to="https://github.com/hightowerbuilds">github</Link>
+        <p className='personalInfo'>
+          (503) 341-2655
+          <br />
+          lukehightower11@gmail.com
+          <br />
+          1107 HALSEY DR. COUPEVILLE, WA 98239
+          <br />
+        
+        </p>
     </div>
   )
 }

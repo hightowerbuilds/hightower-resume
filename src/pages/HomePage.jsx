@@ -37,7 +37,7 @@ export default function HomePage() {
       </div>
 
       <div className='mainHomeSection'>
-        <h1 className='mainNameTitle'>Luke Hightower</h1>
+        <h1 className='mainNameTitle'>Luke Hightower Portfolio & Resume</h1>
         {sectionData.map((section) => (
           activeSection === section.name && section.component
         ))}
