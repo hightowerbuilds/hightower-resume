@@ -1,0 +1,11 @@
+
+.prettyPageMainBox {
+    font-family: optima;
+    font-size: 22px;
+    color:rgb(67, 132, 132);
+    padding: 2%;
+}
+
+.prettyPageNavLink {
+    color: seagreen;
+}
