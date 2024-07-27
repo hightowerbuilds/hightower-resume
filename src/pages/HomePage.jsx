@@ -2,7 +2,7 @@ import './HomePage.css';
 import { useState } from 'react';
 import Experience from '../components/Experience';
 import PersonalInfo from '../components/PersonalInfo';
-import CreativeWriting from '../components/CreativeWriting';
+import CreativeWriting from '../components/CreativeWriting/CreativeWriting';
 import LandingContent from '../components/LandingContent';
 import Education from '../components/Education';
 import Blog from '../components/Blog/Blog';
