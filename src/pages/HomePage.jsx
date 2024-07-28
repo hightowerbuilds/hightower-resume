@@ -7,7 +7,7 @@ import LandingContent from '../components/LandingContent/LandingContent';
 import Education from '../components/Education/Education';
 import Blog from '../components/Blog/Blog';
 import Development from '../components/Development/Development';
-import eagle from '../images/eagle.jpeg'
+import eagle from '../images/eagle.jpg'
 import eagleBeach from '../images/eagleBeach.jpg'
 import selfie from '../images/selfie.png'
 
