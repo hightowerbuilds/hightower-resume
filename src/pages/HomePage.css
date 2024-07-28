@@ -38,6 +38,10 @@
     height: 90px;
 }
 
+.selfieFrameLarge {
+    width: 90%;
+    opacity: 80%;
+}
 .mainHomeSection {
     margin-left: 210px;
     padding-left: 1vh;

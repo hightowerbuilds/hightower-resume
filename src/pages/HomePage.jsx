@@ -7,7 +7,8 @@ import LandingContent from '../components/LandingContent/LandingContent';
 import Education from '../components/Education/Education';
 import Blog from '../components/Blog/Blog';
 import Development from '../components/Development/Development';
-
+import eagle from '../images/EAGLE.jpeg'
+import eagleBeach from '../images/EAGLE_BEACH.jpg'
 import selfie from '../images/selfie.png'
 
 export default function HomePage() {
@@ -45,9 +46,11 @@ export default function HomePage() {
 
       <div className='mainHomeSection'>
         <h1 className='mainNameTitle'>Luke Hightower's Portfolio & Resume</h1>
-        {sectionData.map((section) => (
+        
+        {activeSection ? sectionData.map((section) => (
           activeSection === section.name && section.component
-        ))}
+        )) : <><img className='selfieFrameLarge' src={eagle} alt="big ol face goes right here" /><img className='selfieFrameLarge' src={eagleBeach} alt="big ol face goes right here" /><p style={{fontFamily: 'courier', fontSize: 16}}>Coupeville, WA 1/2024</p> </> }
+      
       </div>
     </div>
   );
