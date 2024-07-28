@@ -14,4 +14,11 @@
 
 .educationListDetail {
     margin: 3%;
+
 }
+
+.educationListDetail::selection {
+    background-color: antiquewhite; /* Choose your desired color */
+    color: #242424;
+}
+

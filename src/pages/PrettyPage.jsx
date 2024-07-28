@@ -1,5 +1,6 @@
 import { NavLink } from 'react-router-dom'
 import './PrettyPage.css'
+import pnpCover from '../images/PNP_COVER.jpeg'
 
 export default function PrettyPage() {
   return (
@@ -7,7 +8,6 @@ export default function PrettyPage() {
       <NavLink className='prettyPageNavLink' to='/'>back to home page</NavLink>
       <br /><br /><br />
       <p className='prettyPageMainParagraph'>
-
       <h1 className='pnpTitle'>Pretty No Perspective</h1>
       <h3>A story by Luke Aaron Hightower</h3>
       <h3>A Brontosaurus Zine Publication 2021 ©</h3>
@@ -26,6 +26,14 @@ export default function PrettyPage() {
       It eventually becomes somewhat ludicrous to obsess on such minute endeavors the universe is carrying out. So you, I, we, move on and worry about other things in life like jobs and bad jokes, performance, illness, tragedy, how to leave and remember on the same saddened path, reading and riding, choking and trying new things; and meanwhile light-years closer than we may want to imagine there are ALIENS plausibly up to comparable activity living and breathing through mortgages and drugs, other-terrestrial family road trips around the planet to stare at laconic pyramids and organize one’s life; or punk-ass aliens cackling apathetically while being asked to change the subject at the alien dinner table by those more mature aliens with the house and anal retentive behavior; and prophetic aliens, there could be those too.
       </p>
       <br /><br />
+      <br /><br />
+      <br /><br />
+      <div className='pnpCoverBox'>
+        <img className='pnpCover' src={pnpCover} alt="pretty no perspective....cover" />
+        </div>
+        <br /><br />
+        <br /><br />
+        <br /><br />
       <h2>Part 1</h2>
       <br />
       <h2>Do Welcome the New Neighbors </h2>

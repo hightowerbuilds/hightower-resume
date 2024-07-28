@@ -20,3 +20,16 @@ p::selection {
     background-color: antiquewhite; /* Choose your desired color */
     color: black;
 }
+
+.pnpCover {
+    width: 75%;
+    margin: 2%;
+    border: 2px darkslategray solid;
+
+}
+
+.pnpCoverBox {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
