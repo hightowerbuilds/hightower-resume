@@ -66,6 +66,7 @@ export default function PrettyPage() {
       A few minutes passed before he saw the last inch of her cross the cracked bathroom door where he sat contemplating a tear. It didn’t slam as she left and thus returned silence.
       </p>
       <br /><br />
+      <br /><br />
       <h2>Cattle and Boy</h2>
       <br /><br />
       <p>
@@ -402,7 +403,7 @@ So he glanced plainly at them and strolled away realizating that he had been bio
 
  <h2>The Performance</h2>  
 
-  <br /><br />
+  <br />
 
 After Nelson trailed off and left the room, Reginald decided it was certainly time for a drink. He sees levity in such an idea, a lightness that will burn the wound shut, a shine that gets started early and exits the lounge into the magnanimous and buzzworthy glints of the afternoon cast over sun, with shine like a commemorative coin or a 1st or even 2nd place trophy sitting front and center on his mantle of all the awesome shit he does. Reggie’s gaze unto the shelf in Clark’s room way down the hall ceases with a slam.
 <br /><br />
@@ -609,11 +610,11 @@ Reginald remained on the floor of Nelson’s room respirating loud and coarsely.
       <h2>A Run On Serendipity</h2>
       <br />
       <p>
-      _We tack backward in chronology ever so slightly,_ 
-      <br /><br />
-_to be informed of Clark’s most recent affairs_. 
+        <i>We tack backward in chronology ever so slightly,</i>
+      <br />
+      <i>to be informed of Clark’s most recent affairs.</i>
 <br /><br />
-  
+<br />  
 
 “It’s a hideaway. It’s hidden. Good.” Clark thought. Though he still ruminated around the option of muscling his way back out through the vivacious and temperate backyard to view and don the stoic cap just one time. His impulses were distracted entirely however as he heard the crash-bang of Reginald come pouring in through the front door. 
 <br /><br />
@@ -1308,17 +1309,16 @@ Clark scowled then froze as he couldn’t help acknowledging a differentiation. 
 
 <h2>The Manor</h2>
 <br /><br />
-
-_We pop back,_ 
-<br /><br />
-_effervescently breaching the surface of time,_ 
-<br /><br />
-_in a bubble so-to-imagine,_ 
-<br /><br />
-_and reenter this essence_ 
-<br /><br />
-_as Nelson flees their vehicle._ 
-<br /><br /><br /><br />
+<i>We pop back,</i>
+<br />
+<i>effervescently breaching the surface of time,</i>
+<br />
+<i>in a bubble so-to-imagine,</i>
+<br />
+<i>and reenter this essence</i>
+<br />
+<i>as Nelson flees their vehicle.</i>
+<br /><br /><br />
   
 
 “—Weirdos.”
@@ -1351,25 +1351,25 @@ Nelson, now robed along with the other newbs was able to scan the entire entry w
 <br /><br />
 <br /><br />
 
-_And with that,_ 
+<i>And with that,</i>
+<br />
+<i>before dipping entirely</i>
+<br />
+<i>into this provocative social scape,</i>
+<br />
+<i>let us rewind</i>
+<br />
+<i>our temporalities even further,</i>
+<br />
+<i>through backsides of moons and myriad of solar flings</i>
+<br />
+<i>to an afternoon when Nelson himself had been provoked</i>
+<br />
+<i>into a comparable trajectory of bonding</i>
+<br />
+<i>with a young woman, human.</i>
 <br /><br />
-_before dipping entirely_ 
-<br /><br />
-_into this provocative social scape,_ 
-<br /><br />
-_let us rewind_ 
-<br /><br />
-_our temporalities even further,_ 
-<br /><br />
-_through backsides of moons and myriad of solar flings_ 
-<br /><br />
-_to an afternoon when Nelson himself had been provoked_ 
-<br /><br />
-_into a comparable trajectory of bonding_ 
-<br /><br />
-_with a young woman, human._ 
-<br /><br />
-<br /><br />
+<br />
 
 She, initially by the name of Morjava and precisely in line with his most popular export, found Nelson irresistibly cute upon the first and second gaze. “Like a mother fucking bunny rabbit.” She had reported to the girls. His non-judging globulous eyes, his tender and uncoordinated kiwi-sized joints and over-vertical lack of chest muscles were indeed tractor beams of sexuality unto her femininity roiling with impurities upon each of their randomized run-ins. Nelson, like a forest creature spotted while strolling through the woods, or the first snowflake of a blizzard landing on one’s dry wrist, or just a leaf blown in by a neighbor’s 2-stroke tidying up the street, again appeared unscheduled in her café. She smiled at him and the fortuity of his surprise arrival. 
 <br /><br />
@@ -1439,26 +1439,20 @@ The boss walked in. He halted. He, male, fancy-shirted with a fulfilled line of 
 <br /><br />
   
 <br /><br />
-They went. 
+They went. He failed. 
 <br /><br />
   
-
-He failed. 
+<i>Let us jump across</i>
+<br />
+<i>that mess</i>
+<br />
+<i>and rejoin post caress</i>
+<br />
+<i>as she finds herself settling the recoil</i>
+<br />
+<i>of young Nelson’s botched intimacy.</i>
 <br /><br />
-  
-<br /><br />
-_Let us jump across_ 
-<br /><br />
-_that mess_ 
-<br /><br />
-_and rejoin post caress_
-<br /><br />
-_as she finds herself settling the recoil_ 
-<br /><br />
-_of young Nelson’s botched intimacy_
-<br /><br />
-  
-<br /><br />
+<br />
 “Well, that looks like it’s a lot of semen.” She whispered inspiringly and giggled quietly while softly grazing his sweatshirt with her nails. 
 <br /><br />
 “Sorry.” 
@@ -1468,11 +1462,10 @@ _of young Nelson’s botched intimacy_
 She heard an unnatural low noise burst from under his moppish do. She pulled herself over his shoulder and peered into his eyes.
 <br /><br />
 “Nelson.”
-<br /><br />
+
   
 <br /><br />
 “Nelson. No crying.”
-<br /><br />
 <br /><br />
 
 “Nelson. It happens.”
@@ -1503,7 +1496,7 @@ She now stood in his doorway. She turned. She stepped out to the porch and caugh
 
   
 <br /><br />
-_We return._ 
+<i>We return.</i>
 <br /><br />
 Nelson fled the proposition to join in with the drenched pullers and nuzzlers shimmying into their new near-bodied roles, even as mere orientees. His focus instead came back to Carbon who uniquely still wore her robes while standing before them. He stood out too from the group by asking her a question. 
 <br /><br />
@@ -1534,10 +1527,11 @@ Just over shoulders he could see petite Carbon, even more layered in garments th
 Nelson didn’t jump. He had caught himself. He had stayed himself. He examined his forearms in awe and looked back at Carbon. And she at him.
 <br /><br />
 <br /><br />
+<br />
 
   
 <h2>Nuclei</h2>
-<br /><br />
+<br />
   
 “Tender Nelson lands among Peon and his strangers. How becoming.” Their stout and nearly located friend Aggy said while lighting a small joint completed in less than a minute. His garage reeked of gasoline, weed and salt water. He already had apologized twice defending certain existence of his higher habits. A surfing magazine placed for preparing joints sat on a plush orange ottoman which had been dragged into the task of centering their discussion. Plenty of extra marijuana grounds were strewn along the cover underlining the featured Tierra del Fuego. Aggy saw Clark looking at the highlight, 
 <br /><br />
@@ -1790,7 +1784,7 @@ Clark stood without a word extolled, and by the psychical laws governing dually 
   
 
   
-<br /><br />
+
 Reginald as it seemed by the stench looming in the car’s cabin had fallen asleep and relaxed, as it went, to let out a cacophony of aerosolized human-biome. 
 <br /><br />
 “That. Is. Fucked.” Huffed through Clark’s palm-covered mandible. 
@@ -1808,19 +1802,18 @@ He glanced back to Reg, no movement. Slyly, he pulls open Reggie’s contacts an
 “Reggie’s still got his number?” Clark asks of the spendy glass plate. 
 <br /><br />
 A memory then flashed before his mind’s eye.
-<br /><br />
   
-<br /><br />
-_And with the lighting of those dusty ol’ synapses_ 
-<br /><br />
-_we depart this current temporality_ 
-<br /><br />
-_to be injected with narration of key minutia_ 
-<br /><br />
-_from the pasts_ 
-<br /><br />
-_of our beloved protagonists._
-<br /><br />
+<br /><br /><br />
+<i>And with the lighting of those dusty ol’ synapses</i>
+<br />
+<i>we depart this current temporality</i>
+<br />
+<i>to be injected with narration of key minutia</i>
+<br />
+<i>from the pasts</i>
+<br />
+<i>of our beloved protagonists.</i>
+<br /><br /><br />
   
 
 Reginald had acquired and saved the number as such eons ago after dinner and a movie that was generously purchased by this Old Man himself. They walked out onto the street biting back on the cold rain. Droplets were crystallizing as they swooped down nearly horizontal creating inconvenient little collisions upon their lamp-lit faces. Clark pulled his phone out with miscalculated force and flung it right out of his own hand. It dunked into the urban crick amassing at the curb. 
@@ -1839,8 +1832,10 @@ He reached down. Nevertheless it was ruined and another plan was in order.  Dig
 <br /><br />
   
 <br /><br />
-_We return to Clark, without motion from Reggie._
-<br /><br />
+<i>We return to Clark, 
+<br />
+  without motion from Reggie.</i>
+<br /><br /><br />
   
 
 “Dead.” Dawns on him.
@@ -2073,12 +2068,12 @@ The Old Man took to the vehicle. He stretched the cables until they’d gripped 
 <br /><br />
 <br /><br />
 <i>They ran over the hill. </i>
-<br /><br />
-_They went down to the table._ 
-<br /><br />
-_It was clear they were not alone._ 
-<br /><br />
-_Crystal weapons now lay across the table._ 
+<br />
+<i>They went down to the table.</i>
+<br />
+<i>It was clear they were not alone.</i>
+<br />
+<i>Crystal weapons now lay across the table.</i>
 <br /><br /><br /><br />
 
 
@@ -2148,11 +2143,11 @@ As he whistled some notes to his friend. It was now Clark and The Old Man on the
 <br /><br />
 <br /><br />
 And wouldn’t ya know,
-<br /><br />
+<br />
 Yes words, ideas and images, 
-<br /><br />
+<br />
 Yes a history of minds teeming with sympathy,
-<br /><br />
+<br />
 And yes wind, a morning wind took that hat right off good Clark’s big head.
 <br /><br />
 <br /><br />
