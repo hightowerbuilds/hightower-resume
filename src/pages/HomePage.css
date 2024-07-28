@@ -27,10 +27,10 @@
     position: fixed;
     background-color: #242424;
     height: 100vh;
-    width: 200px;
+    width: fit-content;
     border-right:rgb(67, 132, 132) 2px solid;
     border-left:rgb(67, 132, 132) 6px solid;
-    padding-left: 2%;
+    padding-left: 30px;
     padding-top: 1%;
 }
 
