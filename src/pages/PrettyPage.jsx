@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom'
 import './PrettyPage.css'
-import pnpCover from '../images/PNP_COVER.jpeg'
+import pnpCover from '../images/pnpCover.jpeg'
 
 export default function PrettyPage() {
   return (

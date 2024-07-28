@@ -7,8 +7,8 @@ import LandingContent from '../components/LandingContent/LandingContent';
 import Education from '../components/Education/Education';
 import Blog from '../components/Blog/Blog';
 import Development from '../components/Development/Development';
-import eagle from '../images/EAGLE.jpeg'
-import eagleBeach from '../images/EAGLE_BEACH.jpg'
+import eagle from '../images/eagle.jpeg'
+import eagleBeach from '../images/eagleBeach.jpg'
 import selfie from '../images/selfie.png'
 
 export default function HomePage() {
