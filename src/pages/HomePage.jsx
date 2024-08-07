@@ -49,7 +49,7 @@ export default function HomePage() {
         
         {activeSection ? sectionData.map((section) => (
           activeSection === section.name && section.component
-        )) : <><img className='selfieFrameLarge' src={eagle} alt="bigface goes right here" /><img className='selfieFrameLarge' src={eagleBeach} alt="bigface goes right here" /><p style={{fontFamily: 'courier', fontSize: 16}}>Coupeville, WA 1/2024</p> </> }
+        )) : <><img className='selfieFrameLarge' src={eagle} alt="bigface goes right here" /><p style={{fontFamily: 'courier', fontSize: 16}}>Coupeville, WA 1/2024</p> </> }
       
       </div>
     </div>
