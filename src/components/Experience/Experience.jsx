@@ -8,8 +8,8 @@ export default function Experience() {
       <h2 className='empExpTitle'>Employment Experience</h2>
       <br />
       <p className='paragraph'>
-        <h3>Lyft - Driver (Seattle) 4/2024 - Current </h3> 
-        This is job is self-explanatory. It did require some customer service and knowledge of the area. I have given 1400 rides and still have gotten all 5 stars (for what it's worth).
+        <h3>Roofer, Laborer - South Whidbey Island Construction 8/2024 - Current </h3> 
+       
       </p>
       <br />
       <p className='paragraph'>
