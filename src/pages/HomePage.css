@@ -41,6 +41,7 @@
 .selfieFrameLarge {
     width: 90%;
     opacity: 80%;
+    border: 1px aliceblue solid;
     border-radius: 1%;
 }
 .mainHomeSection {
@@ -62,6 +63,11 @@
 
 .openInfoButton:hover {
     color: orangered;
+}
+
+.openInfoButton::selection {
+    color: #242424;
+    background-color: antiquewhite;
 }
 
 

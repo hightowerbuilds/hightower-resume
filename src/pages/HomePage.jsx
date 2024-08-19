@@ -49,10 +49,17 @@ export default function HomePage() {
         {activeSection ? sectionData.map((section) => (
           activeSection === section.name && section.component
         )) : <>  
-                <p>this is the real landing page</p>  
+                
+                <div style={{
+                  display: 'flex',
+                  width: '50%',
+                  justifyContent: 'center',
+                  padding: '1em'
+                }}>
                 <img className='selfieFrameLarge' src={eagle} alt="bigface goes right here" /> 
-                <p style={{fontFamily: 'courier', fontSize: 16}}>Coupeville, WA 1/2024</p>
-
+                </div>
+             
+                <p style={{fontFamily: 'courier', fontSize: 16, paddingLeft: '5em'}}>Coupeville, WA Jan. 2024</p>
 
                 <div>
                   {sectionData.map((section) => (
