@@ -8,25 +8,24 @@ import Education from '../components/Education/Education';
 import Blog from '../components/Blog/Blog';
 import Development from '../components/Development/Development';
 import eagle from '../images/eagle.jpg'
-import eagleBeach from '../images/eagleBeach.jpg'
 import selfie from '../images/selfie.png'
 
 export default function HomePage() {
 
-  const [activeSection, setActiveSection] = useState('home');
+  const [activeSection, setActiveSection] = useState('');
 
   const toggleSection = (sectionName) => {
     setActiveSection(activeSection === sectionName ? null : sectionName);
   };
 
   const sectionData = [
-    { name: 'home',             component: <LandingContent />},
-    { name: 'employment',       component: <Experience /> },
-    { name: 'education',        component: <Education /> },
-    { name: 'web dev',          component: <Development />},
-    { name: 'creative',         component: <CreativeWriting /> },
-    { name: 'blog',             component: <Blog />},
-    { name: 'contact',          component: <PersonalInfo /> },
+    { name: 'home',          component: <LandingContent />},
+    { name: 'employment',    component: <Experience /> },
+    { name: 'education',     component: <Education /> },
+    { name: 'web dev',       component: <Development />},
+    { name: 'creative',      component: <CreativeWriting /> },
+    { name: 'blog',          component: <Blog />},
+    { name: 'contact',       component: <PersonalInfo /> },
   ];
 
   return (
@@ -49,7 +48,26 @@ export default function HomePage() {
         
         {activeSection ? sectionData.map((section) => (
           activeSection === section.name && section.component
-        )) : <><img className='selfieFrameLarge' src={eagle} alt="bigface goes right here" /><p style={{fontFamily: 'courier', fontSize: 16}}>Coupeville, WA 1/2024</p> </> }
+        )) : <>  
+                <p>this is the real landing page</p>  
+                {/* <img className='selfieFrameLarge' src={eagle} alt="bigface goes right here" /> 
+                <p style={{fontFamily: 'courier', fontSize: 16}}>Coupeville, WA 1/2024</p>*/}
+                <div style={{
+                    display: 'inline-flex',
+                    width: '100%',
+                    justifyContent: 'space-around'
+                  }}>
+                  <div>
+                    portfolio of websites
+                  </div>
+                  <div>
+                    other software experience
+                  </div>
+
+
+                </div>
+            </>
+          }
       
       </div>
     </div>
