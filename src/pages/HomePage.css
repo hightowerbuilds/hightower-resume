@@ -41,6 +41,7 @@
 .selfieFrameLarge {
     width: 90%;
     opacity: 80%;
+    border-radius: 1%;
 }
 .mainHomeSection {
     margin-left: 210px;

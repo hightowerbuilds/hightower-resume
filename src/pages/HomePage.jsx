@@ -50,16 +50,20 @@ export default function HomePage() {
           activeSection === section.name && section.component
         )) : <>  
                 <p>this is the real landing page</p>  
-                {/* <img className='selfieFrameLarge' src={eagle} alt="bigface goes right here" /> 
-                <p style={{fontFamily: 'courier', fontSize: 16}}>Coupeville, WA 1/2024</p>*/}
+                <img className='selfieFrameLarge' src={eagle} alt="bigface goes right here" /> 
+                <p style={{fontFamily: 'courier', fontSize: 16}}>Coupeville, WA 1/2024</p>
+
+
                 <div>
                   {sectionData.map((section) => (
                 <div
                   style={{
                     display: 'inline-flex',
                     border: '1px aliceblue solid',
+                    borderRadius: '15px',
                     justifyContent: 'space-evenly',
-                    padding: '1em'
+                    padding: '1em',
+                    margin: '.5em',
                   }}
                   key={section.name}
                   onClick={() => toggleSection(section.name)}>
