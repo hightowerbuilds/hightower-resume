@@ -52,7 +52,7 @@ export default function HomePage() {
                 
                 <div style={{
                   display: 'flex',
-                  width: '50%',
+                  width: '70%',
                   justifyContent: 'center',
                   padding: '1em'
                 }}>
