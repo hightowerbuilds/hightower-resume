@@ -52,20 +52,21 @@ export default function HomePage() {
                 <p>this is the real landing page</p>  
                 {/* <img className='selfieFrameLarge' src={eagle} alt="bigface goes right here" /> 
                 <p style={{fontFamily: 'courier', fontSize: 16}}>Coupeville, WA 1/2024</p>*/}
-                <div style={{
+                <div>
+                  {sectionData.map((section) => (
+                <div
+                  style={{
                     display: 'inline-flex',
-                    width: '100%',
-                    justifyContent: 'space-around'
-                  }}>
-                  <div>
-                    portfolio of websites
-                  </div>
-                  <div>
-                    other software experience
-                  </div>
-
-
+                    border: '1px aliceblue solid',
+                    justifyContent: 'space-evenly',
+                    padding: '1em'
+                  }}
+                  key={section.name}
+                  onClick={() => toggleSection(section.name)}>
+                {activeSection === section.name ? 'close' : section.name}
                 </div>
+        ))}
+                  </div>
             </>
           }
       
