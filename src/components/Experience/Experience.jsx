@@ -12,7 +12,7 @@ export default function Experience() {
        
       </p>
       <br />
-      <p className='paragraph'>~
+      <p className='paragraph'>
         <h3>Island Roofing and Remodel - Roofer (Coupeville) 7/2023 - 5/2024 </h3> 
         This job requires a lot of heavy lifting and climbing. It was entirely outdoors and requires a great amount of willingness to succeed despite rougher weather. We use power tools e.g. saws, drills, metal shears. We also use air power nail guns and staplers. To be successful as a roofer one must be sharp with problem solving skills. This is needed for complex tasks to roof-in the home but also to keep oneself safe on slippery roofs in the rain. A roofer must also be familiar with safety requirements in various types of jobs. This job also required committment to purchase most of our own tools.
         </p>

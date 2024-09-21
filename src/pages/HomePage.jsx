@@ -24,7 +24,7 @@ export default function HomePage() {
     { name: 'education',     component: <Education /> },
     { name: 'web dev',       component: <Development />},
     { name: 'creative',      component: <CreativeWriting /> },
-    { name: 'blog',          component: <Blog />},
+   
     { name: 'contact',       component: <PersonalInfo /> },
   ];
 

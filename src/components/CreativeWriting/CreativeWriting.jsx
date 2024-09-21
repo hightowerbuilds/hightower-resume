@@ -8,6 +8,7 @@ export default function CreativeWriting() {
 
         <p className='creativeWritingLinkList'>
           <Link to='/PrettyNoPerspective'>Pretty No Perspective</Link>
+          <Link to='/Blog'>Blog</Link>
         </p>
        
 
