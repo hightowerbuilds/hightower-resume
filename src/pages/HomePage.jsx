@@ -5,7 +5,6 @@ import PersonalInfo from '../components/PersonalInfo/PersonalInfo';
 import CreativeWriting from '../components/CreativeWriting/CreativeWriting';
 import LandingContent from '../components/LandingContent/LandingContent';
 import Education from '../components/Education/Education';
-import Blog from '../components/Blog/Blog';
 import Development from '../components/Development/Development';
 import eagle from '../images/eagle.jpg'
 import selfie from '../images/selfie.png'
@@ -24,7 +23,6 @@ export default function HomePage() {
     { name: 'education',     component: <Education /> },
     { name: 'web dev',       component: <Development />},
     { name: 'creative',      component: <CreativeWriting /> },
-   
     { name: 'contact',       component: <PersonalInfo /> },
   ];
 

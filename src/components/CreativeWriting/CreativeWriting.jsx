@@ -10,9 +10,6 @@ export default function CreativeWriting() {
           <Link to='/PrettyNoPerspective'>Pretty No Perspective</Link>
           <Link to='/Blog'>Blog</Link>
         </p>
-       
-
-
     </div>
   )
 }
