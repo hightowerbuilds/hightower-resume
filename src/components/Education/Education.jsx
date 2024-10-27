@@ -13,15 +13,9 @@ export default function Education() {
           </li>
         </li>
     
-        <li className='educationListDetail'>
-          2022 - Introduction to JavaScript - OperationSpark (NOLA)
-         
-        </li>
-        <li className='educationListDetail'>
-            2010-2012 - Certified Residential Counselor through Seattle Chilrdren's Home
-          
-        </li>
-       
+      
+      
+      
       </ul>
 
     </div>
