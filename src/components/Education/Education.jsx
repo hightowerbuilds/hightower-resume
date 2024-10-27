@@ -21,10 +21,7 @@ export default function Education() {
             2010-2012 - Certified Residential Counselor through Seattle Chilrdren's Home
           
         </li>
-        <li className='educationListDetail'>
-         2023 - Licensed Tour Guide, French Quarter NOLA
-        
-        </li>
+       
       </ul>
 
     </div>
